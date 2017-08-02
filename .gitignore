@@ -1,3 +1,4 @@
 env/bin
 env/include
 env/lib
+*.pyc
