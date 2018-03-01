@@ -1,0 +1,38 @@
+{% extends 'games/base.html' %}
+
+{% block content %}
+
+<h1>Enter Data</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form action="{% url 'games:view_stats' %}" method="get">
+  {{ stats_request_form.as_p }}
+  <input type="submit" value="Make request"/>
+</form>
+
+{% if games %}
+  <ul>
+  {% for game in games %}
+      <li><a href="/games/{{ game.id }}/">{{ game.player_name }} vs. {{ game.opp_name }}: {{game.player_score}}-{{game.opp_score}} -- {{game.result_text}}</a></li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No games are available.</p>
+{% endif %}
+
+{% if stats %}
+  <ul>
+  {% for opp in stats %}
+      <li>{{ opp.opp_name }} {{opp.num_wins}}-{{opp.num_losses}} -- {{opp.winrate}}%</li>
+  {% endfor %}
+  </ul>
+
+
+  <h2>Total</h2>
+  <p>{{totals.win}}-{{totals.loss}} -- {{totals.winrate}}%</p>
+{% endif %}
+
+
+
+{% endblock content %}

@@ -1,0 +1,20 @@
+{% extends 'games/base.html' %}
+
+{% block content %}
+<div>
+  {% if player_side %}
+    <p>Played as: {{ runner_name }}</p>
+    <p>{{ game.runner_score }}</p>
+    <p>Played against: {{ corp_name }}</p>
+    <p>{{ game.corp_score }}</p>
+  {% else %}
+    <p>Played as: {{ corp_name }}</p>
+    <p>{{ game.corp_score }}</p>
+    <p>Played against: {{ runner_name }}</p>
+    <p>{{ game.runner_score }}</p>
+  {% endif %}
+  <p>{{ endgame_text }}</p>
+  <p>{{ game.game_date }}</p>
+</div>
+
+{% endblock content %}

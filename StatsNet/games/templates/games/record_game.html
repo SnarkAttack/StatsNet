@@ -1,0 +1,62 @@
+{% extends 'games/base.html' %}
+
+{% load static %}
+
+
+{% block links %}
+  <script type="text/javascript">
+    $(document).ready(function(){
+
+        $('select').on('change', function (e) {
+            if(this.value == "manual")
+            {
+              $("#manual_form").show();
+              $("#log_form").hide();
+            }
+            else if(this.value == "logs")
+            {
+              $("#manual_form").hide();
+              $("#log_form").show();
+            }
+
+            $('#default_form_option').prop('disabled', true);
+
+        });
+    });
+  </script>
+{% endblock links %}
+
+{% block content %}
+<p>
+  <label for="selectionMode">Mode of entry</label> <select name="mode" required="" id="selectionMode">
+    <option id="default_form_option" value="" selected="selected">---</option>
+    <option value="manual">Manual</option>
+    <option value="logs">Jinteki Logs</option>
+  </select>
+</p>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<!--<form action="{% url 'games:update_ids' %}" method="post">-->
+  <!--{% csrf_token %}-->
+  <!--<input type="hidden" name="next" value="{{ request.path }}">-->
+  <!--<input type="submit" value="Update IDs" />-->
+<!--</form>-->
+
+<div id="manual_form" style="display: none;>
+  <form action="{% url 'games:log_game' %}" method="post">
+    {% csrf_token %}
+    {{ game_log_form.as_p }}
+    <input type="submit" value="Log Game"/>
+  </form>
+</div>
+
+<div id="log_form" style="display: none;">
+  <form action="{%url 'games:log_full_game' %}" method="post">
+    {% csrf_token %}
+    {{ game_log_jinteki_text_form.as_p }}
+    <input type="submit" value="Log Full Game"/>
+  </form>
+</div>
+
+{% endblock content %}

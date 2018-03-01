@@ -31,12 +31,16 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'games.apps.GamesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'jquery',
+    'bootstrap3',
+    'pytz'
 ]
 
 MIDDLEWARE = [
@@ -75,15 +79,18 @@ WSGI_APPLICATION = 'StatsNet.wsgi.application'
 
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'netrunner',
+# 	'USER': 'netrunneruser',
+# 	'PASSWORD': 'netrunner',
+# 	'HOST': 'localhost',
+# 	'PORT': '',
 #     }
 # }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'netrunner',
+        'NAME': 'testrunner',
 	'USER': 'netrunneruser',
 	'PASSWORD': 'netrunner',
 	'HOST': 'localhost',
@@ -128,4 +135,15 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+MEDIA_URL = '/media/'
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 STATIC_URL = '/static/'
+
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'staticfiles'),
+)
+

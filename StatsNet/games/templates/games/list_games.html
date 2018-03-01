@@ -1,0 +1,20 @@
+{% extends 'games/base.html' %}
+
+{% load static %}
+
+{% block links %}
+  <link rel="stylesheet" type="text/css" href="{% static 'games/css/game_base.css' %}" />
+{% endblock links %}
+
+{% block content %}
+{% if game_details_list %}
+    <ul>
+    {% for game in game_details_list %}
+        <li><a href="/games/{{ game.id }}/">{{ game.player_name }} vs. {{ game.opp_name }}: {{game.player_score}}-{{game.opp_score}} -- {{game.result_text}}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No games are available.</p>
+{% endif %}
+
+{% endblock content %}

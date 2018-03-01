@@ -1,0 +1,13 @@
+{% extends 'games/base.html' %}
+
+{% block content %}
+
+<p>Enter details about the game here</p>
+
+<form action="{% url 'games:register_username' %}" method="post">
+  {% csrf_token %}
+  {{ register_username_form.as_p }}
+  <input type="submit" value="Register Username"/>
+</form>
+
+{% endblock content %}
