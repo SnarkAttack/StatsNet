@@ -1,0 +1,549 @@
+
+SnarkAttack keeps their hand.
+spoonfunk takes a mulligan.
+SnarkAttack started their turn 1 with 5 and 5 cards in HQ.
+SnarkAttack spends  to install ICE protecting HQ.
+SnarkAttack spends  to install ICE protecting R&D.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 1 with 6  and 4 cards in HQ.
+spoonfunk started their turn 1 with 5 and 5 cards in their Grip.
+spoonfunk spends  to draw a card.
+
+SnarkAttack
+gl hf!
+spoonfunk spends  and 5  to play Sure Gamble.
+spoonfunk uses Sure Gamble to gain 9 .
+spoonfunk spends  and 5  to play Sure Gamble.
+spoonfunk uses Sure Gamble to gain 9 .
+spoonfunk spends  and 4  to install God of War.
+spoonfunk is ending their turn 1 with 9 and 3 cards in their Grip.
+SnarkAttack started their turn 2 with 6 and 4 cards in HQ.
+SnarkAttack spends  to install ICE protecting Server 1 (new remote).
+
+spoonfunk
+have a great game
+SnarkAttack spends  to install a card in Server 2 (new remote).
+SnarkAttack moves a card from their Server 2 to HQ.
+SnarkAttack sets click to 2 (+1).
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 2 with 7  and 3 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 2 with 9 and 3 cards in their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  and 5  to play Sure Gamble.
+spoonfunk uses Sure Gamble to gain 9 .
+spoonfunk spends  to make a run on Server 1.
+SnarkAttack spends 4  to rez Mausolus.
+spoonfunk uses Null: Whistleblower to trash MKUltra and reduce the strength of Mausolus by 2 for the remainder of the run.
+spoonfunk spends 6  to increase the strength of God of War to 3.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk indicates to fire the "Gain 1 (Gain 3 )" subroutine on Mausolus.
+SnarkAttack uses Mausolus to gain 1 .
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses Jackson Howard from Server 1.
+spoonfunk pays 3  to trash Jackson Howard from Server 1.
+spoonfunk is ending their turn 2 with 4 and 3 cards in their Grip.
+SnarkAttack started their turn 3 with 4 and 3 cards in HQ.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Titan Transnational: Investing In Your Future to add 1 agenda counter to Hostile Takeover.
+SnarkAttack uses Hostile Takeover to gain 7  and take 1 bad publicity.
+SnarkAttack scores Hostile Takeover and gains 1 agenda point.
+SnarkAttack is ending their turn 3 with 9  and 3 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 3 with 4 and 3 cards in their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  and 4  to install Obelus.
+spoonfunk spends  to draw a card.
+spoonfunk is ending their turn 3 with 0 and 5 cards in their Grip.
+SnarkAttack started their turn 4 with 9 and 3 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack is ending their turn 4 with 8  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 4 with 0 and 5 cards in their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 4 with 2 and 7 cards in their Grip.
+SnarkAttack started their turn 5 with 8 and 5 cards in HQ.
+SnarkAttack spends  and 1  to install ICE protecting R&D.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 5 with 12  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 5 with 2 and 7 cards in their Grip.
+spoonfunk spends  and 2  to install Dean Lister.
+spoonfunk spends  to play Account Siphon.
+SnarkAttack has no further action.
+
+spoonfunk
+/close prompt
+!spoonfunk uses a command: /close-prompt
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+spoonfunk uses Obelus to draw 0 cards.
+FightingWalloon joined the game as a spectator.
+spoonfunk spends  and 1  to play I've Had Worse.
+spoonfunk spends  and 2  to play Lean and Mean.
+spoonfunk uses Lean and Mean to make a run on R&D, adding +2 strength to all icebreakers.
+SnarkAttack spends 3  to rez Macrophage.
+spoonfunk uses Dean Lister to add +1 strength for each card in their Grip to God of War until the end of the run.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses an unseen card from R&D.
+spoonfunk is ending their turn 5 with 7 and 6 cards in their Grip.
+SnarkAttack started their turn 6 with 4 and 4 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 6 with 7  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 6 with 7 and 6 cards in their Grip.
+spoonfunk spends  to draw a card.
+FightingWalloon left the game.
+spoonfunk spends  to draw a card.
+spoonfunk spends  and 3  to play Run Amok.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses Fast Track from HQ.
+spoonfunk uses Run Amok to trash 1 piece of ICE that was rezzed during the run.
+spoonfunk uses Obelus to draw 1 cards.
+spoonfunk spends  to install Jarogniew Mercs.
+spoonfunk is ending their turn 6 with 4 and 7 cards in their Grip.
+SnarkAttack started their turn 7 with 7 and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 7 with 10  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 7 with 4 and 7 cards in their Grip.
+spoonfunk spends  to play Mars for Martians.
+spoonfunk uses Mars for Martians to draw 1 cards and gain 9 .
+spoonfunk spends  and 2  to install Dean Lister.
+spoonfunk spends  and 1  to install Counter Surveillance.
+spoonfunk spends  and 2  to play Déjà Vu.
+spoonfunk uses Déjà Vu to add Run Amok to their Grip.
+spoonfunk discards Run Amok from their Grip.
+spoonfunk moves Déjà Vu from their Heap to Grip.
+spoonfunk sets click to 1 (+1).
+spoonfunk sets credit to 9 (+1).
+spoonfunk sets credit to 10 (+1).
+spoonfunk spends  and 2  to play Déjà Vu.
+spoonfunk uses Déjà Vu to add Mars for Martians to their Grip.
+
+spoonfunk
+sorry misclick
+spoonfunk is ending their turn 7 with 8 and 5 cards in their Grip.
+
+SnarkAttack
+all good
+SnarkAttack started their turn 8 with 10  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 2  to trash Counter Surveillance.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 8 with 10  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 8 with 8 and 5 cards in their Grip.
+spoonfunk spends  to play Mars for Martians.
+spoonfunk uses Mars for Martians to draw 1 cards and gain 10 .
+spoonfunk spends  and 1  to play I've Had Worse.
+spoonfunk spends  to play Account Siphon.
+SnarkAttack spends 2  to rez Meru Mati.
+SnarkAttack has no further action.
+spoonfunk spends 8  to increase the strength of God of War to 4.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk continues the run.
+SnarkAttack spends 2  to rez Meru Mati.
+SnarkAttack has no further action.
+spoonfunk uses Null: Whistleblower to trash Black Orchestra and reduce the strength of Meru Mati by 2 for the remainder of the run.
+spoonfunk spends 4  to increase the strength of God of War to 2.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+spoonfunk uses Obelus to draw 0 cards.
+spoonfunk spends  to make a run on R&D.
+spoonfunk spends 3  to install Black Orchestra.
+spoonfunk spends 3  to use Black Orchestra to add 2 strength and break up to 2 subroutines.
+spoonfunk spends 3  to use Black Orchestra to add 2 strength and break up to 2 subroutines.
+spoonfunk spends 3  to use Black Orchestra to add 2 strength and break up to 2 subroutines.
+
+SnarkAttack
+Which do I fire?
+spoonfunk indicates to fire the "Trace 1 - End the run" subroutine on Macrophage.
+
+SnarkAttack
+2 fire
+spoonfunk indicates to fire the "Trace 2 - Remove a virus in the Heap from the game" subroutine on Macrophage.
+SnarkAttack uses Macrophage to initiate a trace with strength 2 (2 + 0 ) (Remove a virus in the Heap from the game).
+spoonfunk spends 0  to increase link strength to 0.
+SnarkAttack uses Macrophage to initiate a trace with strength 1 (1 + 0 ) (End the run).
+spoonfunk spends 1  to increase link strength to 1.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses an unseen card from R&D.
+spoonfunk steals Project Atlas and gains 2 agenda points.
+spoonfunk is ending their turn 8 with 4 and 5 cards in their Grip.
+SnarkAttack started their turn 9 with 1 and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 3 (new remote).
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack moves a card from their Server 3 to HQ.
+SnarkAttack sets click to 1 (+1).
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack is ending their turn 9 with 3  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 9 with 4 and 5 cards in their Grip.
+spoonfunk spends  and 2  to play Déjà Vu.
+spoonfunk uses Déjà Vu to add Account Siphon to their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk is ending their turn 9 with 2 and 8 cards in their Grip.
+SnarkAttack started their turn 10 with 3  and 5 cards in HQ.
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  and 2  to install ICE protecting HQ.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 10 with 1  and 5 cards in HQ.
+spoonfunk started their turn 10 with 2 and 8 cards in their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  and 1  to install Datasucker.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Jackson Howard and 2 cards into R&D.
+SnarkAttack has no further action.
+spoonfunk spends  to make a run on R&D.
+SnarkAttack has no further action.
+spoonfunk uses Dean Lister to add +1 strength for each card in their Grip to God of War until the end of the run.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses an unseen card from R&D.
+spoonfunk uses Obelus to draw 1 cards.
+spoonfunk is ending their turn 10 with 1  and 9 cards in their Grip.
+SnarkAttack started their turn 11 with 1  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to play Preemptive Action.
+SnarkAttack uses Preemptive Action to remove Preemptive Action from the game.
+SnarkAttack uses Preemptive Action to shuffle Audacity, Hedge Fund, Shipment from Tennin into R&D.
+SnarkAttack is ending their turn 11 with 3  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 11 with 1 and 9 cards in their Grip.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 11 with 2  and 9 cards in their Grip.
+SnarkAttack started their turn 12 with 3  and 5 cards in HQ.
+SnarkAttack spends  to purge all virus counters.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 12 with 3  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 12 with 2 and 9 cards in their Grip.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to make a run on Archives.
+SnarkAttack has no further action.
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 12 with 3  and 9 cards in their Grip.
+SnarkAttack started their turn 13 with 3  and 5 cards in HQ.
+SnarkAttack spends  to install a card in HQ.
+SnarkAttack spends  to install ICE protecting Archives.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 13 with 4  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 13 with 3 and 9 cards in their Grip.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk spends  and 1  to play Injection Attack.
+spoonfunk uses Injection Attack to add +1 strength for each card in their Grip to God of War until the end of the run.
+SnarkAttack has no further action.
+spoonfunk uses Datasucker to give -1 strength to Macrophage.
+spoonfunk uses Datasucker to give -1 strength to Macrophage.
+spoonfunk uses Datasucker to give -1 strength to Macrophage.
+spoonfunk uses Null: Whistleblower to trash God of War and reduce the strength of Macrophage by 2 for the remainder of the run.
+spoonfunk continues the run.
+
+SnarkAttack
+still have to use counters to break subs
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+SnarkAttack has no further action.
+
+spoonfunk
+sry
+spoonfunk continues the run.
+
+SnarkAttack
+All good
+SnarkAttack has no further action.
+spoonfunk accesses an unseen card from R&D.
+spoonfunk uses Obelus to draw 1 cards.
+spoonfunk spends  to play En Passant.
+
+spoonfunk
+trash the inner rnd ice
+SnarkAttack trashes a card from their the root of R&D.
+
+spoonfunk
+its not letting me
+spoonfunk is ending their turn 13 with 4  and 7 cards in their Grip.
+
+SnarkAttack
+Yeah, trash stuff is sometimes uncooperative
+SnarkAttack started their turn 14 with 4  and 4 cards in HQ.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Titan Transnational: Investing In Your Future to add 1 agenda counter to Hostile Takeover.
+SnarkAttack uses Hostile Takeover to gain 7  and take 1 bad publicity.
+SnarkAttack scores Hostile Takeover and gains 1 agenda point.
+SnarkAttack is ending their turn 14 with 9  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 14 with 4 and 7 cards in their Grip.
+spoonfunk spends  and 1  to play I've Had Worse.
+spoonfunk spends  and 3  to play Run Amok.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk uses Run Amok to trash 1 piece of ICE that was rezzed during the run.
+spoonfunk spends  to play En Passant.
+
+spoonfunk
+archives ice
+SnarkAttack trashes a card from their the root of Archives.
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 14 with 1  and 7 cards in their Grip.
+SnarkAttack started their turn 15 with 9  and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to install ICE protecting Archives.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack is ending their turn 15 with 13  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 15 with 1 and 7 cards in their Grip.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  and 2  to install Dean Lister.
+spoonfunk spends  to play Account Siphon.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+spoonfunk uses Dean Lister to add +1 strength for each card in their Grip to God of War until the end of the run.
+SnarkAttack has no further action.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk continues the run.
+spoonfunk uses God of War to break 1 subroutine.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack spends 3  to rez Crisium Grid.
+SnarkAttack has no further action.
+spoonfunk accesses Audacity from HQ.
+spoonfunk accesses Crisium Grid from the root of HQ.
+spoonfunk spends  to draw a card.
+spoonfunk is ending their turn 15 with 0  and 6 cards in their Grip.
+SnarkAttack started their turn 16 with 10  and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 16 with 15  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 16 with 0 and 6 cards in their Grip.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk spends  to draw a card.
+spoonfunk is ending their turn 16 with 0  and 10 cards in their Grip.
+SnarkAttack started their turn 17 with 15  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 2  to play Shipment from Tennin.
+SnarkAttack uses Shipment from Tennin to place 2 advancement tokens on a card in Server 1.
+SnarkAttack uses Titan Transnational: Investing In Your Future to add 1 agenda counter to Project Atlas.
+SnarkAttack scores Project Atlas and gains 2 agenda points.
+SnarkAttack is ending their turn 17 with 12  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 17 with 0 and 10 cards in their Grip.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 17 with 4  and 10 cards in their Grip.
+SnarkAttack started their turn 18 with 12  and 4 cards in HQ.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to install ICE protecting R&D.
+SnarkAttack is ending their turn 18 with 11  and 4 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 18 with 4 and 10 cards in their Grip.
+spoonfunk spends  to play Mars for Martians.
+spoonfunk uses Mars for Martians to draw 1 cards and gain 21 .
+spoonfunk spends  and 2  to play Lean and Mean.
+spoonfunk uses Lean and Mean to make a run on Server 1, adding +2 strength to all icebreakers.
+spoonfunk uses Datasucker to give -1 strength to Mausolus.
+spoonfunk uses Datasucker to give -1 strength to Mausolus.
+spoonfunk uses Null: Whistleblower to trash Obelus and reduce the strength of Mausolus by 2 for the remainder of the run.
+SnarkAttack has no further action.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk indicates to fire the "Gain 1 (Gain 3 )" subroutine on Mausolus.
+spoonfunk continues the run.
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Hedge Fund, Hedge Fund, Shipment from Tennin into R&D.
+SnarkAttack has no further action.
+spoonfunk accessed no cards during the run.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 18 with 25  and 8 cards in their Grip.
+SnarkAttack started their turn 19 with 11  and 4 cards in HQ.
+SnarkAttack uses Project Atlas to add Hostile Takeover to HQ from R&D.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Titan Transnational: Investing In Your Future to add 1 agenda counter to Hostile Takeover.
+SnarkAttack uses Hostile Takeover to gain 7  and take 1 bad publicity.
+SnarkAttack scores Hostile Takeover and gains 1 agenda point.
+SnarkAttack is ending their turn 19 with 16  and 5 cards in HQ.
+spoonfunk takes 1 tag to place 2 virus counters on God of War.
+spoonfunk started their turn 19 with 25  and 8 cards in their Grip.
+spoonfunk spends  and 1  to play Injection Attack.
+SnarkAttack spends 6  to rez Colossus.
+SnarkAttack has no further action.
+spoonfunk spends 2  to install MKUltra.
+spoonfunk uses Null: Whistleblower to trash Obelus and reduce the strength of Colossus by 2 for the remainder of the run.
+spoonfunk spends 3  to use MKUltra to add 2 strength and break up to 2 subroutines.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk spends 2  to use God of War to add 1 strength.
+spoonfunk spends 2  to use God of War to add 1 strength.
+spoonfunk uses God of War to break 1 subroutine.
+spoonfunk continues the run.
+spoonfunk spends 2  to use God of War to add 1 strength.
+spoonfunk spends 2  to use God of War to add 1 strength.
+spoonfunk uses God of War to break 1 subroutine.
+SnarkAttack has no further action.
+spoonfunk continues the run.
+SnarkAttack has no further action.
+spoonfunk accesses Armored Servers from HQ.
+spoonfunk steals Armored Servers and gains 2 agenda points.
+spoonfunk accesses Crisium Grid from the root of HQ.
+spoonfunk pays 5  to trash Crisium Grid from the root of HQ.
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk spends  to gain 1 .
+spoonfunk is ending their turn 19 with 12  and 6 cards in their Grip.
+SnarkAttack started their turn 20 with 10  and 4 cards in HQ.
+SnarkAttack spends  to install a card in Server 1.
+SnarkAttack spends  to play Audacity.
+SnarkAttack trashes all cards in HQ due to Audacity.
+SnarkAttack uses Audacity to place an advancement token on a card in Server 1.
+SnarkAttack uses Audacity to place an advancement token on Colossus protecting HQ at position 2.
+
+SnarkAttack
+/counter-advance 2
+!SnarkAttack uses a command: /counter 2
+SnarkAttack sets advancement counters to 2 on a card in Server 1.
+!SnarkAttack uses a command: /counter 0
+
+spoonfunk
+gotcha fa for the last agenda?
+SnarkAttack sets advancement counters to 0 on Colossus protecting HQ at position 2.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Titan Transnational: Investing In Your Future to add 1 agenda counter to Project Atlas.
+SnarkAttack scores Project Atlas and gains 2 agenda points.
+SnarkAttack wins the game.
+
+spoonfunk
+i played this badly
+
+SnarkAttack
+It was still oppresive
+
+spoonfunk
+love the titan advance
+
+spoonfunk
+yeah i was trying to angle for a counter surviellance run but I got my math all screwed up
+
+SnarkAttack
+Based on a deck a meta-mate posted on Netrunnerdb
+
+SnarkAttack
+That card is so hard to actually plan correctly
+
+SnarkAttack
+But it's so cool
+
+spoonfunk
+yeah i am just trying to live the dream
+
+SnarkAttack
+Have you considered adding Joshua B.
+
+SnarkAttack
+Mo tags, mo clicks
+
+spoonfunk
+I wanted to stay as much away from rotating cards
+
+SnarkAttack
+Wait
+
+SnarkAttack
+I didn't even realize he was rotating
+
+SnarkAttack
+Man :(
+
+SnarkAttack
+Bummer
+
+spoonfunk
+yeah it will be

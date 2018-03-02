@@ -13,7 +13,7 @@ from tzlocal import get_localzone
 
 from ..models import Game, Identity, JintekiUsername
 from ..forms import GameLogForm, StatsRequestForm, GameLogJintekiTextForm, RegisterUsernameForm
-from ..views_other import GameListDisplay, compile_game_detail_list
+from .views import GameListDisplay, compile_game_detail_list
 
 class BaseStats():
 
@@ -41,93 +41,50 @@ class StatsViewer(View):
         username = request.user.username
         data = request.GET
         stats_request_form = StatsRequestForm()
+        player_is_runner = True
         if(data):
             games = None
-            if data.get('player_side') == 'True':
-                # We are looking at runner stats
-                if data.get('runner_id'):
-                    if data.get('corp_id'):
-                        games = Game.objects.filter(runner_name=username, runner_id__in=[data['runner_id']], corp_id__in=[data['corp_id']])
-                    elif data.get('corp_faction'):
-                        games = Game.objects.filter(runner_name=username, runner_id__in=[data['runner_id']], corp_id__in=get_corp_faction_ids(data['corp_faction']))
-                    else:
-                        games = Game.objects.filter(runner_name=username, runner_id__in=[data['runner_id']])
-                elif data.get('runner_faction'):
-                    if data.get('corp_id'):
-                        games = Game.objects.filter(runner_name=username, runner_id__in=get_runner_faction_ids(data['runner_faction']), corp_id__in=[data['corp_id']])
-                    elif data.get('corp_faction'):
-                        games = Game.objects.filter(runner_name=username, runner_id__in=get_runner_faction_ids(data['runner_faction']), corp_id__in=get_corp_faction_ids(data['corp_faction']))
-                    else:
-                        games = Game.objects.filter(runner_name=username, runner_id__in=get_runner_faction_ids(data['runner_faction']))
-                else:
-                    if data.get('corp_id'):
-                        games = Game.objects.filter(runner_name=username, corp_id__in=[data['corp_id']])
-                    elif data.get('corp_faction'):
-                        games = Game.objects.filter(runner_name=username, corp_id__in=get_corp_faction_ids(data['corp_faction']))
-                    else:
-                        games = Game.objects.filter(runner_name=username)
 
-                base_stats = {}
-                totals = {'win': 0, 'loss': 0}
-                for game in games:
-                    base_stats[game.corp_id] = base_stats.get(game.corp_id, {'win': 0, 'loss': 0})
-                    if game.winner:
-                        totals['win'] += 1
-                        base_stats[game.corp_id]['win'] += 1
-                    else:
-                        totals['loss'] += 1
-                        base_stats[game.corp_id]['loss'] += 1
-                opp_list = []
-                for opp in base_stats:
-                    opp_list.append(BaseStats(opp, False, base_stats[opp]['win'], base_stats[opp]['loss']))
-                if totals['win'] != 0 or totals['loss'] != 0:
-                    totals['winrate'] = str(round(float(totals['win'])/(totals['win']+totals['loss']) * 100, 1));
-                context = {'stats_request_form': stats_request_form, 'games': compile_game_detail_list(games, username), 'stats': sorted(opp_list, key=lambda game: game.opp_name), 'totals': totals}
-                return render(request, 'games/request_stats.html', context)
-
+            if(data.get('player_side') == 'True'):
+                games = Game.objects.filter(runner_name=username)
             else:
-                if data.get('corp_id'):
-                    if data.get('runner_id'):
-                        games = Game.objects.filter(corp_name=username, corp_id__in=[data['corp_id']], runner_id__in=[data['runner_id']])
-                    elif data.get('runner_faction'):
-                        games = Game.objects.filter(corp_name=username, corp_id__in=[data['corp_id']], runner_id__in=get_corp_faction_ids(data['runner_faction']))
-                    else:
-                        games = Game.objects.filter(corp_name=username, corp_id__in=[data['corp_id']])
-                elif data.get('corp_faction'):
-                    if data.get('runner_id'):
-                        games = Game.objects.filter(corp_name=username, corp_id__in=get_corp_faction_ids(data['corp_faction']), runner_id__in=[data['runner_id']])
-                    elif data.get('runner_faction'):
-                        games = Game.objects.filter(corp_name=username, corp_id__in=get_corp_faction_ids(data['corp_faction']), runner_id__in=get_corp_faction_ids(data['runner_faction']))
-                    else:
-                        games = Game.objects.filter(corp_name=username, corp_id__in=get_corp_faction_ids(data['corp_faction']))
-                else:
-                    if data.get('runner_id'):
-                        games = Game.objects.filter(corp_name=username, runner_id__in=[data['runner_id']])
-                    elif data.get('runner_faction'):
-                        games = Game.objects.filter(corp_name=username, runner_id__in=get_runner_faction_ids(data['runner_faction']))
-                    else:
-                        games = Game.objects.filter(corp_name=username)
+                player_is_runner = False
+                games = Game.objects.filter(corp_name=username)
 
-                base_stats = {}
-                totals = {'win': 0, 'loss': 0}
-                for game in games:
-                    base_stats[game.runner_id] = base_stats.get(game.runner_id, {'win': 0, 'loss': 0})
-                    if not game.winner:
-                        totals['win'] += 1
-                        base_stats[game.runner_id]['win'] += 1
-                    else:
-                        totals['loss'] += 1
-                        base_stats[game.runner_id]['loss'] += 1
-                opp_list = []
-                for opp in base_stats:
-                    opp_list.append(BaseStats(opp, False, base_stats[opp]['win'], base_stats[opp]['loss']))
-                if totals['win'] != 0 or totals['loss'] != 0:
-                    totals['winrate'] = str(round(float(totals['win'])/(totals['win']+totals['loss']) * 100, 1));
-                context = {'stats_request_form': stats_request_form, 'games': compile_game_detail_list(games, username), 'stats': sorted(opp_list, key=lambda game: game.opp_name), 'totals': totals}
-                return render(request, 'games/request_stats.html', context)
-        else:
-            context = {'stats_request_form': stats_request_form}
+            if(data.get('runner_id')):
+                games = games.filter(runner_id=data['runner_id'])
+
+            if(data.get('corp_id')):
+                games = games.filter(corp_id=data['corp_id'])
+
+            if(data.get('runner_faction')):
+                games = games.filter(runner_id__in=get_runner_faction_ids(data['runner_faction']))
+
+            if(data.get('corp_id')):
+                games = games.filter(corp_id__in=get_corp_faction_ids(data['corp_faction']))
+
+            base_stats = {}
+            totals = {'win': 0, 'loss': 0}
+            for game in games:
+                if(player_is_runner):
+                    id = game.runner_id
+                else:
+                    id = game.corp_id
+                base_stats[id] = base_stats.get(id, {'win': 0, 'loss': 0})
+                if game.winner == player_is_runner:
+                    totals['win'] += 1
+                    base_stats[id]['win'] += 1
+                else:
+                    totals['loss'] += 1
+                    base_stats[id]['loss'] += 1
+            opp_list = []
+            for opp in base_stats:
+                opp_list.append(BaseStats(opp, False, base_stats[opp]['win'], base_stats[opp]['loss']))
+            if totals['win'] != 0 or totals['loss'] != 0:
+                totals['winrate'] = str(round(float(totals['win'])/(totals['win']+totals['loss']) * 100, 1));
+            context = {'stats_request_form': stats_request_form, 'games': compile_game_detail_list(games, username), 'stats': sorted(opp_list, key=lambda game: game.opp_name), 'totals': totals}
             return render(request, 'games/request_stats.html', context)
+
 
 def get_runner_faction_ids(faction):
     runner_faction_ids = [identity.code for identity in Identity.objects.filter(side_code='runner', faction_code=faction)]

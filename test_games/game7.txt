@@ -1,0 +1,199 @@
+
+
+LethalSafety
+hi gl hf
+
+SnarkAttack
+same !
+LethalSafety starts with Find the Truth in play.
+LethalSafety starts with Neutralize All Threats in play.
+LethalSafety starts with Safety First in play.
+SnarkAttack takes a mulligan.
+deleriad joined the game as a spectator.
+LethalSafety keeps their hand.
+SnarkAttack started their turn 1 with 5 and 5 cards in HQ.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to install ICE protecting R&D.
+SnarkAttack spends  to install ICE protecting HQ.
+SnarkAttack is ending their turn 1 with 9  and 3 cards in HQ.
+LethalSafety started their turn 1 with 5  and 5 cards in their Grip.
+LethalSafety spends  to gain 1 .
+LethalSafety spends  to gain 1 .
+LethalSafety spends  and 3  to install Daily Casts.
+LethalSafety spends  and 2  to install Public Sympathy.
+LethalSafety is ending their turn 1 with 2  and 3 cards in their Grip.
+LethalSafety uses Safety First to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Armitage Codebusting.
+SnarkAttack started their turn 2 with 9 and 3 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 2 with 14  and 4 cards in HQ.
+LethalSafety started their turn 2 with 2  and 4 cards in their Grip.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  and 1  to install Armitage Codebusting.
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety spends  and 4  to install Earthrise Hotel.
+LethalSafety is ending their turn 2 with 3  and 2 cards in their Grip.
+LethalSafety uses Safety First to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: e3 Feedback Implants.
+SnarkAttack started their turn 3 with 14  and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 3 with 16  and 5 cards in HQ.
+LethalSafety started their turn 3 with 3  and 3 cards in their Grip.
+LethalSafety uses Earthrise Hotel to draw 2 cards.
+LethalSafety uses Find the Truth to reveal that they drew: Brain Chip, Earthrise Hotel.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety spends  and 2  to install Dr. Lovegood.
+deleriad left the game.
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety is ending their turn 3 with 9  and 4 cards in their Grip.
+LethalSafety uses Safety First to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Daily Casts.
+SnarkAttack started their turn 4 with 16  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 4 with 18  and 5 cards in HQ.
+LethalSafety started their turn 4 with 9  and 5 cards in their Grip.
+LethalSafety uses Earthrise Hotel to draw 2 cards.
+LethalSafety uses Find the Truth to reveal that they drew: Scrubber, e3 Feedback Implants.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  and 3  to install Daily Casts.
+LethalSafety spends  and 2  to install e3 Feedback Implants.
+LethalSafety spends  to use Armitage Codebusting to gain 2 .
+LethalSafety spends  to gain 1 .
+LethalSafety is ending their turn 4 with 9  and 5 cards in their Grip.
+SnarkAttack started their turn 5 with 18  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 1 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+SnarkAttack is ending their turn 5 with 16  and 5 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+LethalSafety started their turn 5 with 9  and 5 cards in their Grip.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety uses Earthrise Hotel to draw 2 cards.
+LethalSafety uses Find the Truth to reveal that they drew: Dr. Lovegood, Sure Gamble.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Overmind.
+LethalSafety spends  and 5  to play Sure Gamble.
+LethalSafety uses Sure Gamble to gain 9 .
+LethalSafety spends  and 4  to install Overmind.
+LethalSafety spends  to make a run on HQ.
+SnarkAttack spends 4  to rez Archangel.
+LethalSafety spends 6  to increase the strength of Overmind to 6.
+LethalSafety uses Overmind to break 1 subroutine.
+SnarkAttack has no further action.
+LethalSafety continues the run.
+SnarkAttack has no further action.
+LethalSafety uses Find the Truth to look at the top card of R&D.
+LethalSafety accesses Hard-Hitting News from HQ.
+LethalSafety accesses 15 Minutes from HQ.
+LethalSafety steals 15 Minutes and gains 1 agenda point.
+LethalSafety discards Dr. Lovegood from their Grip.
+LethalSafety is ending their turn 5 with 7  and 5 cards in their Grip.
+SnarkAttack started their turn 6 with 12  and 4 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 3  to play Hard-Hitting News.
+SnarkAttack uses Hard-Hitting News to initiate a trace with strength 8 (4 + 4 ) (Give the Runner 4 tags).
+LethalSafety spends 0  to increase link strength to 0.
+SnarkAttack uses Hard-Hitting News to give the Runner 4 tags.
+SnarkAttack is ending their turn 6 with 7  and 4 cards in HQ.
+LethalSafety started their turn 6 with 7  and 5 cards in their Grip.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety spends  to gain 1 .
+LethalSafety is ending their turn 6 with 1  and 5 cards in their Grip.
+SnarkAttack started their turn 7 with 7 and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 7 with 12  and 5 cards in HQ.
+LethalSafety started their turn 7 with 1  and 5 cards in their Grip.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety spends  to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Overmind.
+LethalSafety spends  to gain 1 .
+LethalSafety spends  to gain 1 .
+LethalSafety discards e3 Feedback Implants from their Grip.
+LethalSafety is ending their turn 7 with 2  and 5 cards in their Grip.
+SnarkAttack started their turn 8 with 12  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 2 (new remote).
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 8 with 14  and 5 cards in HQ.
+LethalSafety started their turn 8 with 2  and 5 cards in their Grip.
+LethalSafety uses Daily Casts to gain 2 .
+LethalSafety spends  to make a run on Archives.
+SnarkAttack has no further action.
+LethalSafety uses Find the Truth to look at the top card of R&D.
+LethalSafety accesses Global Food Initiative from Archives.
+LethalSafety steals Global Food Initiative and gains 2 agenda points.
+LethalSafety spends  and 2  to install Brain Chip.
+LethalSafety spends  to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: HQ Interface.
+LethalSafety spends  to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Gang Sign.
+LethalSafety is ending their turn 8 with 2  and 6 cards in their Grip.
+LethalSafety uses Safety First to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Scrubber.
+SnarkAttack started their turn 9 with 14  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to play Archived Memories.
+SnarkAttack adds Hard-Hitting News to HQ.
+SnarkAttack spends  and 3  to play Hard-Hitting News.
+SnarkAttack uses Hard-Hitting News to initiate a trace with strength 4 (4 + 0 ) (Give the Runner 4 tags).
+LethalSafety spends 0  to increase link strength to 0.
+SnarkAttack uses Hard-Hitting News to give the Runner 4 tags.
+SnarkAttack is ending their turn 9 with 12  and 5 cards in HQ.
+LethalSafety started their turn 9 with 2  and 7 cards in their Grip.
+LethalSafety spends  and 1  to install Gang Sign.
+LethalSafety spends  to gain 1 .
+LethalSafety spends  to gain 1 .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety is ending their turn 9 with 0  and 6 cards in their Grip.
+LethalSafety uses Safety First to draw a card.
+LethalSafety uses Find the Truth to reveal that they drew: Always Be Running.
+SnarkAttack started their turn 10 with 12  and 5 cards in HQ.
+SnarkAttack spends  and 2  to trash Public Sympathy.
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack spends  to use 15 Minutes to shuffle 15 Minutes into R&D.
+SnarkAttack is ending their turn 10 with 9  and 5 cards in HQ.
+LethalSafety started their turn 10 with 0  and 7 cards in their Grip.
+LethalSafety spends  to gain 1 .
+LethalSafety spends  to gain 1 .
+LethalSafety spends  to gain 1 .
+LethalSafety spends  and 3  to remove 1 tag .
+LethalSafety discards Scrubber from their Grip.
+LethalSafety discards Scrubber from their Grip.
+LethalSafety is ending their turn 10 with 0  and 5 cards in their Grip.
+SnarkAttack started their turn 11 with 9  and 5 cards in HQ.
+SnarkAttack spends  and 4  to play BOOM!.
+SnarkAttack uses BOOM! to do 7 meat damage.
+LethalSafety trashes HQ Interface, Earthrise Hotel, Overmind, Always Be Running, Levy AR Lab Access due to damage.
+LethalSafety is flatlined.
+SnarkAttack wins the game.
+
+LethalSafety
+gg
+
+SnarkAttack
+gg

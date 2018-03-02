@@ -1,0 +1,432 @@
+
+SnarkAttack takes a mulligan.
+doomrat keeps their hand.
+SnarkAttack started their turn 1 with 5 and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to install ICE protecting HQ.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 9 .
+SnarkAttack is ending their turn 1 with 13  and 5 cards in HQ.
+doomrat started their turn 1 with 5 and 9 cards in their Grip.
+
+SnarkAttack
+gl hf
+
+doomrat
+u2
+doomrat spends  and 5  to play Sure Gamble.
+doomrat uses Sure Gamble to gain 9 .
+doomrat spends  and 3  to install Desperado.
+doomrat spends  and 5  to play Sure Gamble.
+doomrat uses Sure Gamble to gain 9 .
+doomrat spends  and 2  to install Aaron Marrón.
+doomrat is ending their turn 1 with 8 and 5 cards in their Grip.
+SnarkAttack started their turn 2 with 13  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to install ICE protecting R&D.
+SnarkAttack is ending their turn 2 with 17  and 5 cards in HQ.
+doomrat started their turn 2 with 8 and 5 cards in their Grip.
+doomrat spends  to draw a card.
+doomrat spends  and 5  to play Sure Gamble.
+doomrat uses Sure Gamble to gain 9 .
+doomrat spends  to draw a card.
+doomrat spends  and 3  to install Mongoose.
+doomrat is ending their turn 2 with 9 and 5 cards in their Grip.
+SnarkAttack started their turn 3 with 17  and 5 cards in HQ.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 3 with 23  and 5 cards in HQ.
+doomrat started their turn 3 with 9 and 5 cards in their Grip.
+doomrat spends  and 4  to install Temüjin Contract.
+doomrat uses Temüjin Contract to target Archives.
+doomrat spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Dirty Laundry to gain 5 .
+doomrat spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Dirty Laundry to gain 5 .
+doomrat spends  to make a run on Archives.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat is ending their turn 3 with 26 and 2 cards in their Grip.
+SnarkAttack started their turn 4 with 23  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 1 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle 3 cards into R&D.
+SnarkAttack is ending their turn 4 with 23  and 5 cards in HQ.
+doomrat started their turn 4 with 26 and 2 cards in their Grip.
+doomrat spends  to make a run on R&D.
+SnarkAttack spends 2  to rez IP Block.
+
+doomrat
+trace
+SnarkAttack uses IP Block to initiate a trace with strength 3 (3 + 0 ) (Give the Runner 1 tag).
+doomrat spends 2  to increase link strength to 3.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat accesses an unseen card from R&D.
+doomrat spends  to draw a card.
+doomrat spends  to draw a card.
+doomrat spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Dirty Laundry to gain 5 .
+doomrat is ending their turn 4 with 33 and 3 cards in their Grip.
+SnarkAttack started their turn 5 with 21  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack is ending their turn 5 with 24  and 5 cards in HQ.
+doomrat started their turn 5 with 33 and 3 cards in their Grip.
+doomrat spends  to make a run on HQ.
+SnarkAttack spends 2  to rez Turnpike.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+doomrat spends 2  to increase the strength of Mongoose to 3.
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack rezzes Resistor.
+doomrat jacks out.
+!SnarkAttack uses a command: /close-prompt
+!doomrat uses a command: /close-prompt
+doomrat spends  to draw a card.
+doomrat spends  to draw a card.
+doomrat spends  and 4  to install Earthrise Hotel.
+doomrat is ending their turn 5 with 25 and 4 cards in their Grip.
+SnarkAttack started their turn 6 with 22  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 6 with 25  and 5 cards in HQ.
+doomrat started their turn 6 with 25 and 4 cards in their Grip.
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  to make a run on Archives.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat spends  to draw a card.
+doomrat spends  to play Career Fair.
+doomrat spends 1  to install Bloo Moose.
+doomrat spends  and 2  to install Kati Jones.
+doomrat is ending their turn 6 with 27 and 4 cards in their Grip.
+SnarkAttack started their turn 7 with 25  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 7 with 27  and 5 cards in HQ.
+doomrat uses Bloo Moose to remove Career Fair from the game and gain 2 .
+doomrat started their turn 7 with 29 and 4 cards in their Grip.
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  and 1  to play Special Order.
+doomrat adds Paperclip to their Grip and shuffles their Stack.
+doomrat spends  and 4  to install Paperclip.
+doomrat spends  to gain 1 .
+doomrat spends  to use Kati Jones to store 3 .
+doomrat is ending their turn 7 with 25 and 5 cards in their Grip.
+SnarkAttack started their turn 8 with 27  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 2 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 2.
+SnarkAttack spends  and 1  to advance a card in Server 2.
+SnarkAttack scores 15 Minutes and gains 1 agenda point.
+doomrat places 2 power counters on Aaron Marrón.
+SnarkAttack is ending their turn 8 with 25  and 5 cards in HQ.
+doomrat uses Bloo Moose to remove Special Order from the game and gain 2 .
+doomrat started their turn 8 with 27 and 5 cards in their Grip.
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  and 4  to install Temüjin Contract.
+doomrat uses Temüjin Contract to target HQ.
+doomrat spends  and 2  to play Legwork.
+doomrat spends 2  to increase the strength of Mongoose to 3.
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+SnarkAttack has no further action.
+doomrat continues the run.
+doomrat sets credit to 16 (-1).
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat accesses Quantum Predictive Model from HQ.
+doomrat steals Quantum Predictive Model and gains 1 agenda point.
+doomrat places 2 power counters on Aaron Marrón.
+doomrat accesses Jackson Howard from HQ.
+doomrat pays 3  to trash Jackson Howard from HQ.
+doomrat accesses Hard-Hitting News from HQ.
+doomrat spends  to play Account Siphon.
+SnarkAttack has no further action.
+doomrat spends 2  to increase the strength of Mongoose to 3.
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+doomrat continues the run.
+doomrat sets credit to 14 (-1).
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+doomrat spends  to use Kati Jones to store 3 .
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+
+doomrat
+meant to hit end turn first
+doomrat discards Special Order from their Grip.
+doomrat is ending their turn 8 with 29 and 5 cards in their Grip.
+doomrat moves Special Order from their Heap to Grip.
+SnarkAttack started their turn 9 with 20  and 3 cards in HQ.
+
+SnarkAttack
+all good
+SnarkAttack spends  and 2  to install ICE protecting HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack is ending their turn 9 with 18  and 5 cards in HQ.
+doomrat uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+doomrat started their turn 9 with 31 and 6 cards in their Grip.
+doomrat spends  and 1  to play Special Order.
+doomrat adds Inversificator to their Grip and shuffles their Stack.
+doomrat spends  and 6  to install Inversificator.
+doomrat spends  to use Kati Jones to gain 6 .
+doomrat spends  and 4  to install Earthrise Hotel.
+doomrat is ending their turn 9 with 26 and 4 cards in their Grip.
+SnarkAttack started their turn 10 with 18  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 3 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 3.
+SnarkAttack spends  and 1  to advance a card in Server 3.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+doomrat places 2 power counters on Aaron Marrón.
+SnarkAttack is ending their turn 10 with 16  and 5 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+doomrat uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+doomrat started their turn 10 with 28 and 4 cards in their Grip.
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  to play Account Siphon.
+SnarkAttack spends 4  to rez Archangel.
+SnarkAttack has no further action.
+doomrat spends 4  to increase the strength of Inversificator to 6.
+doomrat spends 1  to use Inversificator to break 1 code gate subroutine.
+doomrat uses Inversificator to swap the positions of Archangel protecting HQ at position 2 and IP Block protecting R&D at position 0.
+doomrat continues the run.
+doomrat spends 2  to increase the strength of Mongoose to 3.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat sets credit to 18 (-1).
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+doomrat spends  to play Account Siphon.
+SnarkAttack has no further action.
+
+doomrat
+trace
+SnarkAttack uses IP Block to initiate a trace with strength 3 (3 + 0 ) (Give the Runner 1 tag).
+doomrat spends 2  to increase link strength to 3.
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+doomrat continues the run.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+doomrat spends 2  to increase the strength of Mongoose to 3.
+SnarkAttack has no further action.
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+doomrat continues the run.
+doomrat sets credit to 26 (-1).
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+doomrat uses Aaron Marrón to remove 1 tag and draw 1 card.
+doomrat spends  to make a run on HQ.
+SnarkAttack has no further action.
+
+doomrat
+trace
+SnarkAttack uses IP Block to initiate a trace with strength 3 (3 + 0 ) (Give the Runner 1 tag).
+doomrat spends 2  to increase link strength to 3.
+doomrat continues the run.
+doomrat spends 2  to increase the strength of Mongoose to 3.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat sets credit to 34 (-1).
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Temüjin Contract to gain 4 .
+doomrat uses Desperado to gain 1 .
+doomrat accesses Sweeps Week from HQ.
+doomrat spends  to play Career Fair.
+doomrat installs Daily Casts.
+doomrat discards Desperado from their Grip.
+doomrat is ending their turn 10 with 39  and 5 cards in their Grip.
+SnarkAttack started their turn 11 with 2  and 5 cards in HQ.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 11 with 8  and 5 cards in HQ.
+doomrat uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+doomrat started their turn 11 with 41 and 5 cards in their Grip.
+doomrat uses Daily Casts to gain 2 .
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  to draw a card.
+doomrat spends  to draw a card.
+doomrat spends  to draw a card.
+doomrat spends  to play Career Fair.
+doomrat installs Daily Casts.
+doomrat discards Abagnale from their Grip.
+doomrat discards Special Order from their Grip.
+doomrat discards Same Old Thing from their Grip.
+doomrat is ending their turn 11 with 43  and 5 cards in their Grip.
+SnarkAttack started their turn 12 with 8  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 4 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  and 3  to install ICE protecting HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 12 with 5  and 5 cards in HQ.
+doomrat uses Bloo Moose to remove Dirty Laundry from the game and gain 2 .
+doomrat started their turn 12 with 45 and 5 cards in their Grip.
+doomrat uses Daily Casts to gain 2 .
+doomrat uses Daily Casts to gain 2 .
+doomrat uses Earthrise Hotel to draw 2 cards.
+doomrat spends  and 2  to play Legwork.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack uses IP Block to initiate a trace with strength 3 (3 + 0 ) (Give the Runner 1 tag).
+doomrat spends 2  to increase link strength to 3.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+doomrat spends 2  to increase the strength of Mongoose to 3.
+SnarkAttack has no further action.
+doomrat spends 1  to use Mongoose to break up to 2 sentry subroutines.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat sets credit to 40 (-1).
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat accesses Hard-Hitting News from HQ.
+doomrat accesses MCA Informant from HQ.
+doomrat accesses Archived Memories from HQ.
+doomrat spends  and 3  to install Medium.
+doomrat spends  to make a run on R&D.
+SnarkAttack has no further action.
+doomrat spends 4  to increase the strength of Inversificator to 6.
+doomrat spends 1  to use Inversificator to break 1 code gate subroutine.
+doomrat uses Inversificator to swap the positions of Resistor protecting HQ at position 0 and Archangel protecting R&D at position 0.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat accesses an unseen card from R&D.
+doomrat pays 1  to trash BOOM! from R&D.
+doomrat spends  to make a run on R&D.
+SnarkAttack has no further action.
+doomrat sets credit to 32 (-1).
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat uses Medium to access 1 additional cards from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat pays 4  to steal NAPD Contract.
+doomrat steals NAPD Contract and gains 2 agenda points.
+doomrat places 2 power counters on Aaron Marrón.
+doomrat accesses an unseen card from R&D.
+doomrat is ending their turn 12 with 29  and 5 cards in their Grip.
+SnarkAttack started their turn 13 with 5  and 5 cards in HQ.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  and 1  to install ICE protecting R&D.
+SnarkAttack spends  and 2  to install ICE protecting R&D.
+SnarkAttack is ending their turn 13 with 6  and 3 cards in HQ.
+doomrat uses Bloo Moose to remove Dirty Laundry from the game and gain 2 .
+doomrat started their turn 13 with 31 and 5 cards in their Grip.
+doomrat uses Daily Casts to gain 2 .
+doomrat uses Daily Casts to gain 2 .
+doomrat spends  to make a run on Server 4.
+SnarkAttack has no further action.
+SnarkAttack wants to act before the run is successful.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Sweeps Week, Jackson Howard and 1 card into R&D.
+doomrat spends  to make a run on R&D.
+SnarkAttack rezzes Pop-up Window.
+SnarkAttack uses Pop-up Window to gain 1 .
+doomrat sets credit to 34 (-1).
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack rezzes Resistor.
+SnarkAttack has no further action.
+doomrat sets credit to 33 (-1).
+doomrat continues the run.
+doomrat sets credit to 32 (-1).
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat uses Medium to access 2 additional cards from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat steals Quantum Predictive Model and gains 1 agenda point.
+doomrat places 2 power counters on Aaron Marrón.
+doomrat accesses an unseen card from R&D.
+doomrat steals Breaking News and gains 1 agenda point.
+doomrat places 2 power counters on Aaron Marrón.
+doomrat spends  to make a run on R&D.
+SnarkAttack has no further action.
+doomrat sets credit to 32 (-1).
+doomrat sets credit to 31 (-1).
+doomrat sets credit to 30 (-1).
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat continues the run.
+undefined joined the game as a spectator.
+SnarkAttack has no further action.
+doomrat continues the run.
+SnarkAttack has no further action.
+doomrat uses Desperado to gain 1 .
+doomrat uses Medium to access 3 additional cards from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat accesses an unseen card from R&D.
+doomrat steals Global Food Initiative and gains 2 agenda points.
+doomrat wins the game.
+doomrat places 2 power counters on Aaron Marrón.
+
+SnarkAttack
+gg
+embaci joined the game as a spectator.
+undefined left the g

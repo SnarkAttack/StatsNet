@@ -1,4 +1,5 @@
-env/bin
-env/include
-env/lib
+env/*
 *.pyc
+.DS_Store
+.DS_Store?
+.idea/

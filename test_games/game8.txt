@@ -1,0 +1,231 @@
+
+
+SnarkAttack
+gl hf!
+FightingWalloon takes a mulligan.
+SnarkAttack keeps their hand.
+
+FightingWalloon
+u2
+FightingWalloon started their turn 1 with 10  and 5 cards in HQ.
+FightingWalloon spends  to draw a card.
+FightingWalloon spends  to install ICE protecting HQ.
+FightingWalloon spends  to gain 1 .
+FightingWalloon discards a card from their HQ.
+FightingWalloon is ending their turn 1 with 11  and 5 cards in HQ.
+SnarkAttack started their turn 1 with 5 and 5 cards in their Grip.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack spends  and 1  to play I've Had Worse.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards MKUltra from their Grip.
+SnarkAttack discards Black Orchestra from their Grip.
+SnarkAttack is ending their turn 1 with 9  and 5 cards in their Grip.
+FightingWalloon started their turn 2 with 11  and 5 cards in HQ.
+FightingWalloon spends  to draw a card.
+FightingWalloon spends  and 10  to play Restructure.
+FightingWalloon uses Restructure to gain 15 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon discards a card from their HQ.
+FightingWalloon is ending their turn 2 with 17  and 5 cards in HQ.
+SnarkAttack started their turn 2 with 9 and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+FightingWalloon has no further action.
+SnarkAttack accesses an unseen card from R&D.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards Retrieval Run from their Grip.
+SnarkAttack is ending their turn 2 with 13  and 5 cards in their Grip.
+FightingWalloon started their turn 3 with 17  and 5 cards in HQ.
+FightingWalloon spends  to draw a card.
+FightingWalloon spends  to install ICE protecting Server 1 (new remote).
+FightingWalloon spends  to install a card in Server 1.
+FightingWalloon is ending their turn 3 with 17  and 5 cards in HQ.
+SnarkAttack started their turn 3 with 13  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 4  to install Keyhole.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Oaktown Renovation.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Cobra.
+SnarkAttack is ending their turn 3 with 9  and 5 cards in their Grip.
+FightingWalloon started their turn 4 with 17  and 5 cards in HQ.
+FightingWalloon spends  and 1  to advance a card in Server 1.
+FightingWalloon spends  and 1  to advance a card in Server 1.
+FightingWalloon spends  and 1  to advance a card in Server 1.
+FightingWalloon scores Project Atlas and gains 2 agenda points.
+FightingWalloon discards a card from their HQ.
+FightingWalloon is ending their turn 4 with 14  and 5 cards in HQ.
+SnarkAttack started their turn 4 with 9 and 5 cards in their Grip.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Enigma.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Enigma.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Owl.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Ice Wall.
+SnarkAttack is ending their turn 4 with 9  and 5 cards in their Grip.
+FightingWalloon started their turn 5 with 14  and 5 cards in HQ.
+FightingWalloon spends  and 1  to install ICE protecting Server 1.
+FightingWalloon spends  to install ICE protecting R&D.
+FightingWalloon spends  to gain 1 .
+FightingWalloon is ending their turn 5 with 14  and 4 cards in HQ.
+SnarkAttack started their turn 5 with 9 and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards Employee Strike from their Grip.
+SnarkAttack discards Keyhole from their Grip.
+SnarkAttack discards Employee Strike from their Grip.
+SnarkAttack is ending their turn 5 with 10  and 5 cards in their Grip.
+FightingWalloon started their turn 6 with 14  and 4 cards in HQ.
+FightingWalloon spends  to install Oaktown Renovation in Server 1.
+FightingWalloon spends  and 1  to advance Oaktown Renovation in Server 1.
+FightingWalloon uses Oaktown Renovation to gain 2 .
+FightingWalloon spends  and 1  to advance Oaktown Renovation in Server 1.
+FightingWalloon uses Oaktown Renovation to gain 2 .
+FightingWalloon is ending their turn 6 with 16  and 4 cards in HQ.
+SnarkAttack started their turn 6 with 10  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+FightingWalloon has no further action.
+SnarkAttack accesses Oaktown Renovation from Archives.
+SnarkAttack steals Oaktown Renovation and gains 2 agenda points.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack spends  and 4  to install Eater.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon spends 4  to rez Cobra.
+FightingWalloon has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Hortum.
+SnarkAttack is ending their turn 6 with 8  and 4 cards in their Grip.
+FightingWalloon started their turn 7 with 12  and 4 cards in HQ.
+FightingWalloon spends  and 1  to advance Oaktown Renovation in Server 1.
+FightingWalloon uses Oaktown Renovation to gain 2 .
+FightingWalloon spends  and 1  to advance Oaktown Renovation in Server 1.
+FightingWalloon uses Oaktown Renovation to gain 2 .
+FightingWalloon scores Oaktown Renovation and gains 2 agenda points.
+FightingWalloon spends  and 1  to install ICE protecting R&D.
+FightingWalloon is ending their turn 7 with 13  and 4 cards in HQ.
+SnarkAttack started their turn 7 with 8 and 4 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack spends  to draw a card.
+SnarkAttack discards Employee Strike from their Grip.
+SnarkAttack is ending their turn 7 with 12  and 5 cards in their Grip.
+FightingWalloon started their turn 8 with 13  and 4 cards in HQ.
+FightingWalloon spends  to install a card in Server 1.
+FightingWalloon spends  and 1  to advance a card in Server 1.
+FightingWalloon spends  and 1  to advance a card in Server 1.
+FightingWalloon is ending their turn 8 with 11  and 4 cards in HQ.
+SnarkAttack started their turn 8 with 12  and 5 cards in their Grip.
+SnarkAttack spends  and 2  to play Planned Assault.
+SnarkAttack uses Planned Assault to play Account Siphon.
+SnarkAttack plays Account Siphon.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack spends  and 2  to play Déjà Vu.
+SnarkAttack uses Déjà Vu to add Account Siphon to their Grip.
+SnarkAttack spends  to play Account Siphon.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack is ending their turn 8 with 28  and 3 cards in their Grip.
+FightingWalloon started their turn 9 with 1  and 4 cards in HQ.
+FightingWalloon spends  to gain 1 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon is ending their turn 9 with 4  and 5 cards in HQ.
+SnarkAttack started their turn 9 with 28  and 3 cards in their Grip.
+SnarkAttack spends  to install Same Old Thing.
+SnarkAttack spends  to use Same Old Thing to play Account Siphon.
+SnarkAttack plays Account Siphon.
+FightingWalloon spends 4  to rez Hortum.
+FightingWalloon has no further action.
+SnarkAttack spends 2  to increase the strength of Eater to 4.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack indicates to fire the "Gain 1  (Gain 4 )" subroutine on Hortum.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack indicates to fire the "Gain 1  (Gain 4 )" subroutine on Hortum.
+FightingWalloon uses Hortum to gain 1 .
+SnarkAttack uses Account Siphon to force the Corp to lose 1 , gain 2  and take 2 tags.
+SnarkAttack spends  to make a run on Server 1.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack accesses High-Risk Investment from Server 1.
+SnarkAttack steals High-Risk Investment and gains 3 agenda points.
+SnarkAttack is ending their turn 9 with 28  and 2 cards in their Grip.
+FightingWalloon started their turn 10 with 0  and 5 cards in HQ.
+FightingWalloon spends  to gain 1 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon discards a card from their HQ.
+FightingWalloon is ending their turn 10 with 3  and 5 cards in HQ.
+SnarkAttack started their turn 10 with 28  and 2 cards in their Grip.
+SnarkAttack spends  and 2  to play Forked.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+
+SnarkAttack
+cobra gets trashed
+SnarkAttack accessed no cards during the run.
+FightingWalloon trashes Cobra from their the root of R&D.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Ice Wall.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Fast Track.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+FightingWalloon has no further action.
+SnarkAttack continues the run.
+FightingWalloon has no further action.
+SnarkAttack uses Keyhole to trash Oaktown Renovation.
+SnarkAttack is ending their turn 10 with 25  and 1 cards in their Grip.
+FightingWalloon started their turn 11 with 3  and 5 cards in HQ.
+FightingWalloon trashes a card from their the root of R&D.
+FightingWalloon spends  to install ICE protecting R&D.
+FightingWalloon spends  to gain 1 .
+FightingWalloon spends  to gain 1 .
+FightingWalloon is ending their turn 11 with 5  and 5 cards in HQ.
+SnarkAttack started their turn 11 with 25  and 1 cards in their Grip.
+SnarkAttack spends  to make a run on Archives.
+FightingWalloon has no further action.
+SnarkAttack accesses Oaktown Renovation from Archives.
+SnarkAttack steals Oaktown Renovation and gains 2 agenda points.
+SnarkAttack wins the game.
+
+SnarkAttack
+gg

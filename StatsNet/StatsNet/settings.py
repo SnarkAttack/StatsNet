@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'jquery',
-    'bootstrap3',
+    #'jquery',
+    #'bootstrap3',
     'pytz'
 ]
 

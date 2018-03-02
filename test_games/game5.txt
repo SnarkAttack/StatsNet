@@ -1,0 +1,213 @@
+
+
+tf34
+hi
+
+tf34
+glhf
+tf34 keeps their hand.
+
+SnarkAttack
+gl hf
+Odol joined the game as a spectator.
+SnarkAttack keeps their hand.
+tf34 started their turn 1 with 5  and 5 cards in HQ.
+Odol left the game.
+tf34 spends  to install ICE protecting HQ.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 spends  to install ICE protecting R&D.
+tf34 spends  to gain 1 .
+tf34 is ending their turn 1 with 7  and 4 cards in HQ.
+SnarkAttack started their turn 1 with 5 and 5 cards in their Grip.
+SnarkAttack spends  to play Making an Entrance.
+SnarkAttack uses Making an Entrance to look at and trash or rearrange the top 6 cards of their Stack.
+SnarkAttack uses Making an Entrance to trash Plascrete Carapace.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 6  to install Liberated Account.
+SnarkAttack is ending their turn 1 with 3  and 3 cards in their Grip.
+tf34 started their turn 2 with 7  and 4 cards in HQ.
+tf34 spends  and 2  to play Blue Level Clearance.
+tf34 uses Blue Level Clearance to gain 5  and draw 2 cards.
+tf34 spends  and 1  to install ICE protecting HQ.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 is ending their turn 2 with 10  and 5 cards in HQ.
+SnarkAttack started their turn 2 with 3 and 3 cards in their Grip.
+SnarkAttack spends  and 1  to play Inject.
+SnarkAttack adds Account Siphon to Grip.
+SnarkAttack adds Employee Strike to Grip.
+SnarkAttack adds Déjà Vu to Grip.
+SnarkAttack adds Rebirth to Grip.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  and 1  to play Hacktivist Meeting.
+SnarkAttack is ending their turn 2 with 9  and 5 cards in their Grip.
+tf34 started their turn 3 with 10  and 5 cards in HQ.
+tf34 spends  to draw a card.
+tf34 spends  and 10  to play Restructure.
+tf34 uses Restructure to gain 15 .
+tf34 spends  and 8  to play IPO.
+tf34 uses IPO to gain 13 .
+tf34 is ending their turn 3 with 20  and 5 cards in HQ.
+SnarkAttack started their turn 3 with 9 and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack is ending their turn 3 with 21  and 5 cards in their Grip.
+tf34 started their turn 4 with 20  and 5 cards in HQ.
+tf34 spends  to draw a card.
+tf34 spends  and 2  to install ICE protecting HQ.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 spends  to install ICE protecting Server 1 (new remote).
+tf34 is ending their turn 4 with 19  and 5 cards in HQ.
+SnarkAttack started their turn 4 with 21  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play I've Had Worse.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+tf34 has no further action.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack spends  to install Same Old Thing.
+SnarkAttack discards Eater from their Grip.
+SnarkAttack is ending their turn 4 with 23  and 5 cards in their Grip.
+tf34 started their turn 5 with 19  and 5 cards in HQ.
+tf34 spends  to draw a card.
+tf34 spends  to install a card in Server 1.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 spends  and 8  to play IPO.
+tf34 uses IPO to gain 13 .
+tf34 is ending their turn 5 with 25  and 5 cards in HQ.
+SnarkAttack started their turn 5 with 23  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 4  to install Eater.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 6  to install Liberated Account.
+SnarkAttack is ending their turn 5 with 13  and 5 cards in their Grip.
+tf34 started their turn 6 with 25  and 5 cards in HQ.
+tf34 spends  to draw a card.
+tf34 spends  to install a card in HQ.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 trashes a card in Server 1.
+tf34 spends  to install a card in Server 1.
+tf34 is ending their turn 6 with 26  and 5 cards in HQ.
+SnarkAttack started their turn 6 with 13  and 5 cards in their Grip.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack is ending their turn 6 with 29  and 5 cards in their Grip.
+tf34 started their turn 7 with 26  and 5 cards in HQ.
+tf34 spends  and 1  to advance a card in Server 1.
+tf34 spends  and 1  to advance a card in Server 1.
+tf34 spends  and 1  to advance a card in Server 1.
+Hacktivist Meeting is trashed.
+tf34 scores Accelerated Beta Test and gains 2 agenda points.
+tf34 discards a card from their HQ.
+tf34 is ending their turn 7 with 23  and 5 cards in HQ.
+SnarkAttack started their turn 7 with 29  and 5 cards in their Grip.
+SnarkAttack spends  to play Rebirth.
+SnarkAttack uses Rebirth to change identities.
+SnarkAttack NOTE: passive abilities (Kate, Gabe, etc) will incorrectly fire if their once per turn condition was met this turn before Rebirth was played. Please adjust your game state manually for the rest of this turn if necessary.
+SnarkAttack spends  to use Omar Keung: Conspiracy Theorist to make a run on Archives.
+tf34 has no further action.
+SnarkAttack uses Omar Keung: Conspiracy Theorist to make a successful run on HQ.
+SnarkAttack accesses Cyberdex Virus Suite from the root of HQ.
+SnarkAttack accesses Hedge Fund from HQ.
+SnarkAttack spends  to play Account Siphon.
+tf34 spends 6  to rez Fairchild 3.0.
+SnarkAttack spends 3  to increase the strength of Eater to 5.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+tf34 has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+tf34 spends 4  to rez Seidr Adaptive Barrier.
+SnarkAttack spends 3  to increase the strength of Eater to 5.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+tf34 has no further action.
+SnarkAttack continues the run.
+tf34 spends 6  to rez Fairchild 3.0.
+SnarkAttack spends 3  to increase the strength of Eater to 5.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+tf34 has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+tf34 has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack spends  to draw a card.
+SnarkAttack is ending their turn 7 with 23  and 4 cards in their Grip.
+tf34 started their turn 8 with 2  and 5 cards in HQ.
+tf34 spends  to install a card in Server 1.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 spends  to gain 1 .
+tf34 spends  and 2  to trash Same Old Thing.
+tf34 is ending their turn 8 with 2  and 5 cards in HQ.
+SnarkAttack started their turn 8 with 23  and 4 cards in their Grip.
+SnarkAttack spends  and 1  to play Inject.
+SnarkAttack adds Account Siphon to Grip.
+SnarkAttack trashes Keyhole and gains 1 .
+SnarkAttack adds Same Old Thing to Grip.
+SnarkAttack adds Dirty Laundry to Grip.
+SnarkAttack spends  and 2  to play Déjà Vu.
+SnarkAttack uses Déjà Vu to add Keyhole to their Grip.
+SnarkAttack spends  and 4  to install Keyhole.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+tf34 has no further action.
+SnarkAttack continues the run.
+tf34 has no further action.
+SnarkAttack uses Keyhole to trash Accelerated Beta Test.
+SnarkAttack is ending their turn 8 with 17  and 5 cards in their Grip.
+tf34 started their turn 9 with 2  and 5 cards in HQ.
+tf34 spends  to install a card in HQ.
+tf34 uses Haas-Bioroid: Engineering the Future to gain 1 .
+tf34 spends  to gain 1 .
+tf34 spends  to gain 1 .
+tf34 is ending their turn 9 with 5  and 5 cards in HQ.
+SnarkAttack started their turn 9 with 17  and 5 cards in their Grip.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+tf34 spends 4  to rez Architect.
+tf34 has no further action.
+SnarkAttack spends 1  to increase the strength of Eater to 3.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+tf34 has no further action.
+SnarkAttack uses Keyhole to trash Project Vitruvius.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+tf34 has no further action.
+SnarkAttack spends 1  to increase the strength of Eater to 3.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+tf34 has no further action.
+SnarkAttack uses Keyhole to trash Global Food Initiative.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+tf34 has no further action.
+SnarkAttack accesses Project Vitruvius from Archives.
+SnarkAttack steals Project Vitruvius and gains 2 agenda points.
+SnarkAttack accesses Accelerated Beta Test from Archives.
+SnarkAttack steals Accelerated Beta Test and gains 2 agenda points.
+SnarkAttack accesses Global Food Initiative from Archives.
+SnarkAttack steals Global Food Initiative and gains 2 agenda points.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack spends  to use Omar Keung: Conspiracy Theorist to make a run on Archives.
+tf34 has no further action.
+SnarkAttack uses Omar Keung: Conspiracy Theorist to make a successful run on HQ.
+SnarkAttack accesses Crisium Grid from the root of HQ.
+SnarkAttack pays 5  to trash Crisium Grid from the root of HQ.
+SnarkAttack accesses Project Vitruvius from HQ.
+SnarkAttack steals Project Vitruvius and gains 2 agenda points.
+SnarkAttack wins the game.
+
+SnarkAttack
+gg
+
+tf34
+gg
+
+tf34
+thx for the game
+tf34 left the game.

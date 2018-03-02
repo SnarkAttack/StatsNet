@@ -1,0 +1,248 @@
+game
+chouxflower keeps their hand.
+
+SnarkAttack
+gl hf!
+
+chouxflower
+hello!
+
+chouxflower
+gl hf :)
+SnarkAttack takes a mulligan.
+chouxflower started their turn 1 with 5 and 5 cards in HQ.
+chouxflower spends  to install a card in Server 1 (new remote).
+chouxflower spends  and 1  to advance a card in Server 1.
+chouxflower spends  and 1  to advance a card in Server 1.
+chouxflower scores Standoff and gains 0 agenda point.
+SnarkAttack declines to trash a card due to Standoff.
+chouxflower draws a card and gains 5 from Standoff.
+chouxflower discards a card from their HQ.
+chouxflower is ending their turn 1 with 8  and 5 cards in HQ.
+SnarkAttack started their turn 1 with 5 and 5 cards in their Grip.
+SnarkAttack spends  and 2  to play Day Job.
+SnarkAttack uses Day Job to gain 10 .
+SnarkAttack is ending their turn 1 with 13  and 4 cards in their Grip.
+chouxflower started their turn 2 with 8 and 5 cards in HQ.
+chouxflower spends  to draw a card.
+chouxflower spends  to install ICE protecting HQ.
+chouxflower spends  to install ICE protecting Server 2 (new remote).
+chouxflower is ending their turn 2 with 8  and 5 cards in HQ.
+SnarkAttack started their turn 2 with 13  and 4 cards in their Grip.
+SnarkAttack spends  and 1  to play I've Had Worse.
+SnarkAttack spends  and 1  to play Inject.
+SnarkAttack trashes Eater and gains 1 .
+SnarkAttack adds Forked to Grip.
+SnarkAttack adds Wanton Destruction to Grip.
+SnarkAttack adds Dirty Laundry to Grip.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+chouxflower has no further action.
+SnarkAttack accesses an unseen card from R&D.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack spends  and 1  to play Employee Strike.
+SnarkAttack uses Employee Strike to disable the Corp's identity.
+SnarkAttack discards Wanton Destruction from their Grip.
+SnarkAttack is ending their turn 2 with 14  and 5 cards in their Grip.
+chouxflower started their turn 3 with 8 and 5 cards in HQ.
+chouxflower spends  to install Oaktown Renovation in Server 2.
+chouxflower spends  and 1  to advance Oaktown Renovation in Server 2.
+chouxflower uses Oaktown Renovation to gain 2 .
+chouxflower spends  and 1  to install ICE protecting Server 2.
+chouxflower is ending their turn 3 with 8  and 4 cards in HQ.
+SnarkAttack started their turn 3 with 14  and 5 cards in their Grip.
+SnarkAttack spends  to make a run on HQ.
+chouxflower has no further action.
+SnarkAttack continues the run.
+chouxflower has no further action.
+SnarkAttack accesses Oaktown Renovation from HQ.
+SnarkAttack steals Oaktown Renovation and gains 2 agenda points.
+SnarkAttack spends  to make a run on R&D.
+chouxflower has no further action.
+SnarkAttack accesses an unseen card from R&D.
+SnarkAttack steals Hostile Takeover and gains 1 agenda point.
+SnarkAttack spends  to make a run on R&D.
+chouxflower has no further action.
+SnarkAttack accesses an unseen card from R&D.
+SnarkAttack steals Project Atlas and gains 2 agenda points.
+SnarkAttack spends  to make a run on R&D.
+chouxflower has no further action.
+SnarkAttack accesses an unseen card from R&D.
+
+SnarkAttack
+wow
+SnarkAttack is ending their turn 3 with 14  and 5 cards in their Grip.
+
+chouxflower
+ouch
+
+SnarkAttack
+That was
+chouxflower started their turn 4 with 8 and 3 cards in HQ.
+
+SnarkAttack
+Unexpected
+
+SnarkAttack
+And undeserved
+chouxflower spends  and 1  to advance Oaktown Renovation in Server 2.
+chouxflower uses Oaktown Renovation to gain 2 .
+chouxflower spends  and 1  to advance Oaktown Renovation in Server 2.
+chouxflower uses Oaktown Renovation to gain 2 .
+chouxflower spends  and 1  to advance Oaktown Renovation in Server 2.
+chouxflower uses Oaktown Renovation to gain 2 .
+Employee Strike is trashed.
+chouxflower scores Oaktown Renovation and gains 2 agenda points.
+chouxflower is ending their turn 4 with 11  and 4 cards in HQ.
+SnarkAttack started their turn 4 with 14  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to make a run on R&D.
+chouxflower has no further action.
+SnarkAttack accesses an unseen card from R&D.
+SnarkAttack spends  and 3  to play Retrieval Run.
+chouxflower has no further action.
+SnarkAttack uses Retrieval Run to install Eater.
+SnarkAttack installs Eater at no cost.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 4 with 12  and 5 cards in their Grip.
+chouxflower started their turn 5 with 11  and 4 cards in HQ.
+chouxflower spends  to draw a card.
+chouxflower spends  to install a card in Server 2.
+chouxflower spends  to install ICE protecting R&D.
+chouxflower is ending their turn 5 with 11  and 4 cards in HQ.
+SnarkAttack started their turn 5 with 12  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to play Account Siphon.
+chouxflower spends 4  and 1 Agenda to rez Archer.
+chouxflower forfeits Standoff.
+SnarkAttack spends 4  to increase the strength of Eater to 6.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+chouxflower has no further action.
+SnarkAttack continues the run.
+chouxflower has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 2  to remove 1 tag .
+SnarkAttack discards MKUltra from their Grip.
+SnarkAttack is ending their turn 5 with 12  and 5 cards in their Grip.
+chouxflower started their turn 6 with 2 and 4 cards in HQ.
+
+SnarkAttack
+wait
+
+SnarkAttack
+I miscounted a click
+
+SnarkAttack
+Whooops
+chouxflower rezzes Jackson Howard.
+chouxflower spends  to use Jackson Howard to draw 2 cards.
+chouxflower spends  to gain 1 .
+chouxflower spends  to gain 1 .
+chouxflower discards a card from their HQ.
+chouxflower discards a card from their HQ.
+chouxflower is ending their turn 6 with 4  and 5 cards in HQ.
+SnarkAttack started their turn 6 with 12  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to make a run on R&D.
+chouxflower rezzes Vanilla.
+SnarkAttack jacks out.
+SnarkAttack spends  and 2  to play Forked.
+SnarkAttack spends 4  to increase the strength of Eater to 6.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+chouxflower has no further action.
+SnarkAttack continues the run.
+chouxflower has no further action.
+chouxflower trashes Archer from their the root of HQ.
+SnarkAttack accessed no cards during the run.
+SnarkAttack spends  to play Account Siphon.
+chouxflower has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 4 , gain 8  and take 2 tags.
+SnarkAttack is ending their turn 6 with 10  and 4 cards in their Grip.
+chouxflower started their turn 7 with 0 and 5 cards in HQ.
+chouxflower spends  to install ICE protecting HQ.
+chouxflower spends  to gain 1 .
+chouxflower spends  to gain 1 .
+chouxflower is ending their turn 7 with 2  and 5 cards in HQ.
+SnarkAttack started their turn 7 with 10  and 4 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+chouxflower has no further action.
+SnarkAttack continues the run.
+chouxflower has no further action.
+SnarkAttack accesses SEA Source from HQ.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack discards Day Job from their Grip.
+SnarkAttack is ending their turn 7 with 13  and 5 cards in their Grip.
+chouxflower started their turn 8 with 2 and 5 cards in HQ.
+chouxflower spends  to install a card in Server 3 (new remote).
+chouxflower spends  and 1  to advance a card in Server 3.
+chouxflower spends  and 1  to advance a card in Server 3.
+chouxflower scores Standoff and gains 0 agenda point.
+SnarkAttack trashes ICE protecting HQ at position 0 due to Standoff.
+chouxflower trashes Eater due to Standoff.
+SnarkAttack trashes Vanilla protecting R&D at position 0 due to Standoff.
+chouxflower trashes ICE protecting Server 2 at position 1 due to Standoff.
+SnarkAttack trashes ICE protecting Server 2 at position 0 due to Standoff.
+chouxflower trashes Jackson Howard in Server 2 due to Standoff.
+SnarkAttack declines to trash a card due to Standoff.
+chouxflower draws a card and gains 5 from Standoff.
+
+SnarkAttack
+Bold
+chouxflower discards a card from their HQ.
+
+SnarkAttack
+I like it
+chouxflower is ending their turn 8 with 5  and 5 cards in HQ.
+SnarkAttack started their turn 8 with 13  and 5 cards in their Grip.
+SnarkAttack spends  and 2  to play Déjà Vu.
+
+chouxflower
+trash everything
+SnarkAttack uses Déjà Vu to add Account Siphon to their Grip.
+SnarkAttack spends  to play Account Siphon.
+chouxflower has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack spends  and 1  to play I've Had Worse.
+SnarkAttack spends  and 2  to play Dirty Laundry.
+chouxflower has no further action.
+SnarkAttack accesses Scorched Earth from HQ.
+SnarkAttack uses Dirty Laundry to gain 5 .
+SnarkAttack is ending their turn 8 with 23  and 5 cards in their Grip.
+chouxflower started their turn 9 with 0 and 5 cards in HQ.
+chouxflower spends  to draw a card.
+chouxflower spends  to install ICE protecting HQ.
+chouxflower spends  to gain 1 .
+chouxflower discards a card from their HQ.
+chouxflower is ending their turn 9 with 1  and 5 cards in HQ.
+SnarkAttack started their turn 9 with 23  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to make a run on HQ.
+chouxflower has no further action.
+SnarkAttack continues the run.
+chouxflower has no further action.
+SnarkAttack accesses Oaktown Renovation from HQ.
+SnarkAttack steals Oaktown Renovation and gains 2 agenda points.
+SnarkAttack wins the game.
+chouxflower uses Argus Security: Protection Guaranteed to make the Runner take 1 tag or suffer 2 meat damage.
+SnarkAttack chooses to suffer 2 meat damage.
+SnarkAttack trashes Sure Gamble, I've Had Worse due to damage.
+SnarkAttack uses I've Had Worse to draw 3 cards.
+
+chouxflower
+gg!
+
+SnarkAttack
+gg!
+
+SnarkAttack
+Love the Standoff play

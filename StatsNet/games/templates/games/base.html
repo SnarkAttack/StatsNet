@@ -5,32 +5,37 @@
         {% block title %}StatsNet{% endblock title %}
     </title>
 
-    <script type="text/javascript" src="{% static 'js/jquery.js' %}"></script>
+    <!-- Never use this block anywhere else, this ensures Jquery and Bootstrap ends up on every page-->
+    {% block permenent_links %}
+      <link rel="stylesheet" type="text/css" href="{% static 'packages/bootstrap-4.0.0-dist/css/bootstrap.min.css' %}">
+      <script type="text/javascript" src="{% static 'packages/jquery-3.3.1.min.js' %}"></script>
+      <script type="text/javascript" src="{% static 'packages/bootstrap-4.0.0-dist/js/bootstrap.min.js' %}"></script>
+    {% endblock permenent_links %}
 
     {% block links %}
     {% endblock links %}
 </head>
 
-{% load bootstrap3 %}
-{% bootstrap_javascript jquery=1 %}
-{% bootstrap_css %}
-
 <body>
     {% block body_header %}
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-9">
-            </div>
-            <div class="col-sm-1">
-                <p><a href="/games/">Home</a></p>
-            </div>
-            <div class="col-sm-1">
-                <p><a href="/games/record/">Record Game</a></p>
-            </div>
-            <div class="col-sm-1">
-                <p><a href="/games/stats/">Stats</a></p>
-            </div>
-        </div>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="/games/">StatsNet</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="/games/record/">Record<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/games/stats/">Stats</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
     </div>
     {% endblock body_header %}
 

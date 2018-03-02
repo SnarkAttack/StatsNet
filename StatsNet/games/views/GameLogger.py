@@ -9,7 +9,6 @@ import urllib2
 import json
 import datetime
 import pytz
-from tzlocal import get_localzone
 import re
 import hashlib
 

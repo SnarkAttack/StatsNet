@@ -1,0 +1,663 @@
+
+SnarkAttack keeps their hand.
+
+SnarkAttack
+gl hf
+thebigunit3000 keeps their hand.
+SnarkAttack started their turn 1 with 5 and 5 cards in HQ.
+
+thebigunit3000
+good luck!
+SnarkAttack spends  to install ICE protecting HQ.
+SnarkAttack spends  to install ICE protecting R&D.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack is ending their turn 1 with 9  and 3 cards in HQ.
+thebigunit3000 started their turn 1 with 5  and 5 cards in their Grip.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  and 6  to install Liberated Account.
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 is ending their turn 1 with 8  and 4 cards in their Grip.
+SnarkAttack started their turn 2 with 9 and 3 cards in HQ.
+SnarkAttack spends  to install a card in Server 1 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+SnarkAttack is ending their turn 2 with 7  and 3 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+thebigunit3000 started their turn 2 with 8  and 4 cards in their Grip.
+thebigunit3000 spends  and 1  to play I've Had Worse.
+yann joined the game as a spectator.
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 spends  and 3  to install Mimic.
+thebigunit3000 spends  and 1  to install Datasucker.
+thebigunit3000 is ending their turn 2 with 7  and 4 cards in their Grip.
+SnarkAttack started their turn 3 with 7 and 3 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 3 with 7  and 4 cards in HQ.
+thebigunit3000 started their turn 3 with 7  and 4 cards in their Grip.
+RvdH83 joined the game as a spectator.
+thebigunit3000 spends  to make a run on R&D.
+SnarkAttack spends 4  to rez Archangel.
+thebigunit3000 indicates to fire the "Trace 6 - " subroutine on Archangel.
+SnarkAttack uses Archangel to initiate a trace with strength 6 (6 + 0 ) ().
+thebigunit3000 spends 0  to increase link strength to 0.
+jamesgrey joined the game as a spectator.
+SnarkAttack uses Archangel to add 1 installed card to the Runner's Grip.
+SnarkAttack adds Mimic to the Runner's Grip.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses an unseen card from R&D.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 spends  and 4  to install Bloo Moose.
+thebigunit3000 is ending their turn 3 with 7  and 5 cards in their Grip.
+SnarkAttack started their turn 4 with 3 and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 4 with 8  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove I've Had Worse from the game and gain 2 .
+thebigunit3000 started their turn 4 with 9  and 5 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 5  to play Sure Gamble.
+thebigunit3000 uses Sure Gamble to gain 9 .
+thebigunit3000 spends  and 3  to install Mimic.
+thebigunit3000 is ending their turn 4 with 10  and 5 cards in their Grip.
+SnarkAttack started their turn 5 with 8 and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 5 with 11  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+thebigunit3000 started their turn 5 with 12  and 5 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 6  to install Liberated Account.
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 is ending their turn 5 with 14  and 5 cards in their Grip.
+SnarkAttack started their turn 6 with 11  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 2 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+Terrificy joined the game as a spectator.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 6 with 15  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Liberated Account from the game and gain 2 .
+thebigunit3000 started their turn 6 with 16  and 5 cards in their Grip.
+karlakas joined the game as a spectator.
+thebigunit3000 spends  to make a run on Server 2.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Hedge Fund, Sweeps Week and 1 card into R&D.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 spends  to use Liberated Account to gain 4 .
+thebigunit3000 discards Black Orchestra from their Grip.
+thebigunit3000 is ending their turn 6 with 24  and 5 cards in their Grip.
+SnarkAttack started their turn 7 with 15  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 3 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 3.
+SnarkAttack spends  and 1  to advance a card in Server 3.
+SnarkAttack scores 15 Minutes and gains 1 agenda point.
+SnarkAttack is ending their turn 7 with 13  and 5 cards in HQ.
+thebigunit3000 started their turn 7 with 24  and 5 cards in their Grip.
+HannibalHusker joined the game as a spectator.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 3  to install Plascrete Carapace.
+thebigunit3000 spends  and 5  to install Şifr.
+thebigunit3000 is ending their turn 7 with 16  and 5 cards in their Grip.
+SnarkAttack started their turn 8 with 13  and 5 cards in HQ.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+HannibalHusker left the game.
+SnarkAttack spends  and 1  to install ICE protecting R&D.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 8 with 17  and 4 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Liberated Account from the game and gain 2 .
+thebigunit3000 started their turn 8 with 18  and 5 cards in their Grip.
+thebigunit3000 spends  to make a run on HQ.
+SnarkAttack spends 4  to rez Data Raven.
+thebigunit3000 jacks out.
+thebigunit3000 spends  to draw a card.
+Thrillho joined the game as a spectator.
+thebigunit3000 spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+thebigunit3000 uses Dirty Laundry to gain 5 .
+thebigunit3000 spends  and 2  to install Parasite on Data Raven.
+thebigunit3000 is ending their turn 8 with 19  and 4 cards in their Grip.
+SnarkAttack started their turn 9 with 13  and 4 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 9 with 15  and 5 cards in HQ.
+thebigunit3000 started their turn 9 with 19  and 4 cards in their Grip.
+thebigunit3000 spends  to make a run on Archives.
+SnarkAttack has no further action.
+thebigunit3000 accesses Global Food Initiative from Archives.
+thebigunit3000 steals Global Food Initiative and gains 2 agenda points.
+thebigunit3000 spends  to make a run on HQ.
+SnarkAttack has no further action.
+thebigunit3000 chooses to take 1 tag on encountering Data Raven.
+thebigunit3000 uses Datasucker to give -1 strength to Data Raven.
+thebigunit3000 uses Datasucker to give -1 strength to Data Raven.
+thebigunit3000 uses Datasucker to give -1 strength to Data Raven.
+thebigunit3000 uses Parasite to trash Data Raven.
+thebigunit3000 continues the run.
+SnarkAttack rezzes Pop-up Window.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 sets credit to 18 (-1).
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Closed Accounts from HQ.
+thebigunit3000 spends  and 3  to remove 1 tag .
+thebigunit3000 spends  and 1  to play Employee Strike.
+thebigunit3000 uses Employee Strike to disable the Corp's identity.
+thebigunit3000 sets credit to 15 (+1).
+thebigunit3000 is ending their turn 9 with 15  and 3 cards in their Grip.
+SnarkAttack started their turn 10 with 16  and 5 cards in HQ.
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 10 with 17  and 5 cards in HQ.
+thebigunit3000 started their turn 10 with 15  and 3 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 1  to play I've Had Worse.
+thebigunit3000 spends  and 5  to play Sure Gamble.
+thebigunit3000 uses Sure Gamble to gain 9 .
+thebigunit3000 spends  and 4  to install Paperclip.
+thebigunit3000 is ending their turn 10 with 14  and 4 cards in their Grip.
+SnarkAttack started their turn 11 with 17  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 4 .
+SnarkAttack is ending their turn 11 with 22  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+thebigunit3000 started their turn 11 with 16  and 4 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 1  to play Inject.
+thebigunit3000 adds Déjà Vu to Grip.
+thebigunit3000 trashes Medium and gains 1 .
+thebigunit3000 trashes Datasucker and gains 1 .
+thebigunit3000 adds Déjà Vu to Grip.
+thebigunit3000 spends  and 2  to play Déjà Vu.
+thebigunit3000 uses Déjà Vu to add Medium to their Grip.
+thebigunit3000 uses Déjà Vu to add Parasite to their Grip.
+thebigunit3000 spends  and 3  to install Medium.
+thebigunit3000 discards Mimic from their Grip.
+thebigunit3000 is ending their turn 11 with 12  and 5 cards in their Grip.
+SnarkAttack started their turn 12 with 22  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to install a card in Server 4 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Data Raven and 2 cards into R&D.
+SnarkAttack is ending their turn 12 with 22  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Inject from the game and gain 2 .
+thebigunit3000 started their turn 12 with 14  and 5 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 5  to install Yog.0.
+thebigunit3000 spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+thebigunit3000 uses Dirty Laundry to gain 5 .
+thebigunit3000 spends  to draw a card.
+thebigunit3000 is ending their turn 12 with 12  and 5 cards in their Grip.
+SnarkAttack started their turn 13 with 22  and 5 cards in HQ.
+SnarkAttack spends  and 2  to install ICE protecting R&D.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 13 with 22  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Dirty Laundry from the game and gain 2 .
+thebigunit3000 started their turn 13 with 14  and 5 cards in their Grip.
+thebigunit3000 spends  to make a run on R&D.
+SnarkAttack spends 4  to rez Data Raven.
+thebigunit3000 jacks out.
+thebigunit3000 spends  and 2  to install Parasite on Data Raven.
+thebigunit3000 spends  to make a run on R&D.
+thebigunit3000 uses Şifr to lower their maximum hand size by 1 and lower the strength of Data Raven to 0.
+thebigunit3000 uses Parasite to trash Data Raven.
+thebigunit3000 sets tag to 1 (+1).
+SnarkAttack has no further action.
+thebigunit3000 jacks out.
+thebigunit3000 spends  and 2  to remove 1 tag .
+thebigunit3000 is ending their turn 13 with 10  and 4 cards in their Grip.
+SnarkAttack started their turn 14 with 18  and 5 cards in HQ.
+SnarkAttack spends  and 2  to install ICE protecting R&D.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 4 .
+SnarkAttack spends  and 3  to play Hard-Hitting News.
+SnarkAttack uses Hard-Hitting News to initiate a trace with strength 11 (4 + 7 ) (Give the Runner 4 tags).
+thebigunit3000 spends 0  to increase link strength to 0.
+SnarkAttack uses Hard-Hitting News to give the Runner 4 tags.
+SnarkAttack is ending their turn 14 with 9  and 3 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove I've Had Worse from the game and gain 2 .
+thebigunit3000 started their turn 14 with 12  and 4 cards in their Grip.
+thebigunit3000 spends  and 2  to remove 1 tag .
+thebigunit3000 spends  and 2  to remove 1 tag .
+thebigunit3000 spends  and 2  to remove 1 tag .
+thebigunit3000 spends  and 2  to remove 1 tag .
+thebigunit3000 is ending their turn 14 with 4  and 4 cards in their Grip.
+SnarkAttack started their turn 15 with 9  and 3 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 15 with 12  and 4 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Datasucker from the game and gain 2 .
+thebigunit3000 started their turn 15 with 6  and 4 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 discards Şifr from their Grip.
+thebigunit3000 is ending their turn 15 with 8  and 5 cards in their Grip.
+SnarkAttack started their turn 16 with 12  and 4 cards in HQ.
+SnarkAttack spends  to install a card in Server 5 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 5.
+SnarkAttack spends  and 1  to advance a card in Server 5.
+Employee Strike is trashed.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+SnarkAttack is ending their turn 16 with 10  and 4 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+thebigunit3000 started their turn 16 with 8  and 5 cards in their Grip.
+!thebigunit3000 uses a command: /rfg
+thebigunit3000 sets credit to 9 (+1).
+thebigunit3000 sets credit to 10 (+1).
+thebigunit3000 spends  to make a run on R&D.
+SnarkAttack rezzes Resistor.
+thebigunit3000 sets credit to 9 (-1).
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack rezzes Pop-up Window.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+thebigunit3000 continues the run.
+thebigunit3000 uses Şifr to lower their maximum hand size by 1 and lower the strength of Archangel to 0.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses an unseen card from R&D.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 discards Rumor Mill from their Grip.
+thebigunit3000 is ending their turn 16 with 12  and 4 cards in their Grip.
+yann disconnected.
+SnarkAttack started their turn 17 with 11  and 4 cards in HQ.
+SnarkAttack spends  to purge all virus counters.
+SnarkAttack is ending their turn 17 with 11  and 5 cards in HQ.
+Thrillho left the game.
+thebigunit3000 uses Bloo Moose to remove Şifr from the game and gain 2 .
+thebigunit3000 started their turn 17 with 14  and 4 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to install Street Peddler.
+thebigunit3000 uses Street Peddler to install Street Peddler lowering its install cost by 1 .
+thebigunit3000 installs Street Peddler.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 17 with 15  and 5 cards in their Grip.
+SnarkAttack started their turn 18 with 11  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 3  to install ICE protecting R&D.
+SnarkAttack is ending their turn 18 with 10  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Street Peddler from the game and gain 2 .
+thebigunit3000 started their turn 18 with 17  and 5 cards in their Grip.
+thebigunit3000 spends  to make a run on HQ.
+tr33beard joined the game as a spectator.
+SnarkAttack spends 2  to rez Turnpike.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+thebigunit3000 spends 1  to use Mimic to break 1 sentry subroutine.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack uses Pop-up Window to gain 1 .
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Closed Accounts from HQ.
+tr33beard left the game.
+thebigunit3000 spends  to make a run on R&D.
+SnarkAttack spends 4  to rez Data Raven.
+SnarkAttack has no further action.
+thebigunit3000 jacks out.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 3  to install Daily Casts.
+thebigunit3000 is ending their turn 18 with 12  and 5 cards in their Grip.
+SnarkAttack started their turn 19 with 5  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 19 with 8  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove I've Had Worse from the game and gain 2 .
+thebigunit3000 started their turn 19 with 14  and 5 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  and 2  to install Parasite on Data Raven.
+thebigunit3000 spends  to make a run on R&D.
+thebigunit3000 chooses to take 1 tag on encountering Data Raven.
+SnarkAttack has no further action.
+thebigunit3000 uses Şifr to lower their maximum hand size by 1 and lower the strength of Data Raven to 0.
+thebigunit3000 uses Parasite to trash Data Raven.
+thebigunit3000 continues the run.
+thebigunit3000 jacks out.
+thebigunit3000 spends  and 3  to remove 1 tag .
+thebigunit3000 spends  and 2  to play Dirty Laundry.
+SnarkAttack has no further action.
+thebigunit3000 uses Dirty Laundry to gain 5 .
+thebigunit3000 is ending their turn 19 with 14  and 3 cards in their Grip.
+SnarkAttack started their turn 20 with 8  and 5 cards in HQ.
+SnarkAttack spends 1 Agenda and  to play 24/7 News Cycle.
+SnarkAttack forfeits 15 Minutes.
+SnarkAttack uses 24/7 News Cycle to trigger the "when scored" ability of Breaking News.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack spends  and 1  to play Closed Accounts.
+SnarkAttack uses Closed Accounts to force the Runner to lose all 14 .
+SnarkAttack spends  to play Observe and Destroy.
+SnarkAttack uses Observe and Destroy to remove 1 Runner tag and trash Plascrete Carapace.
+SnarkAttack is ending their turn 20 with 7  and 3 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Dirty Laundry from the game and gain 2 .
+thebigunit3000 started their turn 20 with 2  and 3 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  and 3  to remove 1 tag .
+thebigunit3000 is ending their turn 20 with 3  and 4 cards in their Grip.
+SnarkAttack started their turn 21 with 7  and 3 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 21 with 10  and 4 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Mimic from the game and gain 2 .
+thebigunit3000 started their turn 21 with 5  and 4 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  to draw a card.
+thebigunit3000 trashes Datasucker from their Rig.
+thebigunit3000 spends  and 1  to install Trope.
+thebigunit3000 spends  and 2  to play Déjà Vu.
+thebigunit3000 uses Déjà Vu to add Plascrete Carapace to their Grip.
+thebigunit3000 spends  and 3  to install Plascrete Carapace.
+thebigunit3000 is ending their turn 21 with 1  and 3 cards in their Grip.
+SnarkAttack started their turn 22 with 10  and 4 cards in HQ.
+SnarkAttack spends  to install a card in Server 6 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  and 3  to install ICE protecting R&D.
+SnarkAttack is ending their turn 22 with 7  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Datasucker from the game and gain 2 .
+thebigunit3000 started their turn 22 with 3  and 3 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 22 with 7  and 5 cards in their Grip.
+SnarkAttack started their turn 23 with 7  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 7 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 7.
+SnarkAttack spends  and 1  to advance a card in Server 7.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+SnarkAttack is ending their turn 23 with 5  and 5 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+thebigunit3000 uses Bloo Moose to remove Daily Casts from the game and gain 2 .
+thebigunit3000 started their turn 23 with 9  and 5 cards in their Grip.
+thebigunit3000 spends  to make a run on Server 6.
+SnarkAttack removes Jackson Howard from the game.
+SnarkAttack uses Jackson Howard to shuffle Sweeps Week, Observe and Destroy, Hard-Hitting News into R&D.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 23 with 12  and 5 cards in their Grip.
+SnarkAttack started their turn 24 with 5  and 5 cards in HQ.
+
+SnarkAttack
+thinking
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 24 with 8  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Rumor Mill from the game and gain 2 .
+thebigunit3000 started their turn 24 with 14  and 5 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  and 3  to install Daily Casts.
+thebigunit3000 spends  and 2  to install Parasite on Turnpike.
+thebigunit3000 is ending their turn 24 with 9  and 5 cards in their Grip.
+SnarkAttack started their turn 25 with 8  and 5 cards in HQ.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 25 with 14  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Black Orchestra from the game and gain 2 .
+thebigunit3000 started their turn 25 with 11  and 5 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to make a run on HQ.
+thebigunit3000 uses Şifr to lower their maximum hand size by 1 and lower the strength of Turnpike to 0.
+thebigunit3000 uses Parasite to trash Turnpike.
+thebigunit3000 sets credit to 12 (-1).
+SnarkAttack has no further action.
+SnarkAttack uses Pop-up Window to gain 1 .
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Quantum Predictive Model from HQ.
+thebigunit3000 steals Quantum Predictive Model and gains 1 agenda point.
+thebigunit3000 spends  to make a run on HQ.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses BOOM! from HQ.
+thebigunit3000 uses Whizzard: Master Gamer to take 1 .
+thebigunit3000 pays 1  to trash BOOM! from HQ.
+thebigunit3000 spends  and 5  to play Sure Gamble.
+thebigunit3000 uses Sure Gamble to gain 9 .
+thebigunit3000 discards Street Peddler from their Grip.
+thebigunit3000 is ending their turn 25 with 16  and 4 cards in their Grip.
+SnarkAttack started their turn 26 with 16  and 3 cards in HQ.
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack is ending their turn 26 with 15  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Street Peddler from the game and gain 2 .
+thebigunit3000 started their turn 26 with 18  and 4 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+Terrificy left the game.
+thebigunit3000 spends  to make a run on HQ.
+SnarkAttack spends 2  to rez Turnpike.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+thebigunit3000 spends 1  to use Mimic to break 1 sentry subroutine.
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Archived Memories from HQ.
+thebigunit3000 spends  to make a run on R&D.
+SnarkAttack spends 4  to rez Data Raven.
+SnarkAttack has no further action.
+thebigunit3000 jacks out.
+thebigunit3000 spends  and 2  to play Déjà Vu.
+thebigunit3000 uses Déjà Vu to add Parasite to their Grip.
+thebigunit3000 uses Déjà Vu to add Parasite to their Grip.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 26 with 17  and 5 cards in their Grip.
+SnarkAttack started their turn 27 with 10  and 5 cards in HQ.
+SnarkAttack spends 1 Agenda and  to play 24/7 News Cycle.
+SnarkAttack forfeits Breaking News.
+SnarkAttack uses 24/7 News Cycle to trigger the "when scored" ability of Breaking News.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack spends  and 4  to play BOOM!.
+SnarkAttack uses BOOM! to do 7 meat damage.
+thebigunit3000 has the option to avoid damage.
+thebigunit3000 uses Plascrete Carapace to prevent 1 meat damage.
+thebigunit3000 uses Plascrete Carapace to prevent 1 meat damage.
+thebigunit3000 uses Plascrete Carapace to prevent 1 meat damage.
+thebigunit3000 uses Plascrete Carapace to prevent 1 meat damage.
+thebigunit3000 prevents 4 meat damage.
+thebigunit3000 trashes Parasite, Parasite, Medium due to damage.
+SnarkAttack is ending their turn 27 with 6  and 4 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Sure Gamble from the game and gain 2 .
+thebigunit3000 started their turn 27 with 19  and 2 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  and 3  to remove 1 tag .
+thebigunit3000 spends  and 3  to remove 1 tag .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 27 with 17  and 2 cards in their Grip.
+SnarkAttack started their turn 28 with 6  and 4 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 28 with 9  and 5 cards in HQ.
+thebigunit3000 trashes Paperclip from their Rig.
+thebigunit3000 uses Street Peddler to install Paperclip lowering its install cost by 1 .
+thebigunit3000 spends 3  to install Paperclip.
+thebigunit3000 uses Bloo Moose to remove Street Peddler from the game and gain 2 .
+thebigunit3000 started their turn 28 with 16  and 2 cards in their Grip.
+thebigunit3000 uses Daily Casts to gain 2 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 28 with 22  and 2 cards in their Grip.
+SnarkAttack started their turn 29 with 9  and 5 cards in HQ.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 2 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 29 with 12  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Daily Casts from the game and gain 2 .
+thebigunit3000 started their turn 29 with 24  and 2 cards in their Grip.
+thebigunit3000 uses Trope to shuffle Employee Strike, Medium, Parasite, Parasite, Parasite, Déjà Vu, Déjà Vu, Déjà Vu into their Stack.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 is ending their turn 29 with 24  and 5 cards in their Grip.
+SnarkAttack started their turn 30 with 12  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 30 with 15  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Bloo Moose from the game and gain 2 .
+thebigunit3000 started their turn 30 with 26  and 5 cards in their Grip.
+thebigunit3000 spends  and 2  to play Déjà Vu.
+thebigunit3000 uses Déjà Vu to add Plascrete Carapace to their Grip.
+thebigunit3000 spends  and 3  to install Plascrete Carapace.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 30 with 23  and 4 cards in their Grip.
+SnarkAttack started their turn 31 with 15  and 5 cards in HQ.
+Odol joined the game as a spectator.
+SnarkAttack spends  to install a card in Server 8 (new remote).
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 31 with 17  and 5 cards in HQ.
+Odol left the game.
+thebigunit3000 uses Bloo Moose to remove Inject from the game and gain 2 .
+thebigunit3000 started their turn 31 with 25  and 4 cards in their Grip.
+thebigunit3000 spends  to make a run on Server 8.
+SnarkAttack has no further action.
+thebigunit3000 accesses Quantum Predictive Model from Server 8.
+thebigunit3000 steals Quantum Predictive Model and gains 1 agenda point.
+thebigunit3000 spends  to make a run on Archives.
+SnarkAttack has no further action.
+thebigunit3000 accesses Quantum Predictive Model from Archives.
+thebigunit3000 steals Quantum Predictive Model and gains 1 agenda point.
+thebigunit3000 spends  to make a run on HQ.
+thebigunit3000 spends 1  to use Mimic to break 1 sentry subroutine.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Archived Memories from HQ.
+thebigunit3000 spends  to make a run on HQ.
+thebigunit3000 spends 1  to use Mimic to break 1 sentry subroutine.
+SnarkAttack uses Turnpike to force the Runner to lose 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+thebigunit3000 uses Yog.0 to break 1 code gate subroutine.
+SnarkAttack uses Pop-up Window to gain 1 .
+SnarkAttack has no further action.
+thebigunit3000 continues the run.
+SnarkAttack has no further action.
+thebigunit3000 accesses Hard-Hitting News from HQ.
+thebigunit3000 is ending their turn 31 with 21  and 4 cards in their Grip.
+SnarkAttack started their turn 32 with 19  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 2  to install ICE protecting HQ.
+SnarkAttack is ending their turn 32 with 19  and 5 cards in HQ.
+thebigunit3000 uses Bloo Moose to remove Déjà Vu from the game and gain 2 .
+thebigunit3000 started their turn 32 with 23  and 4 cards in their Grip.
+thebigunit3000 spends  to draw a card.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 32 with 26  and 5 cards in their Grip.
+SnarkAttack started their turn 33 with 19  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 33 with 22  and 5 cards in HQ.
+thebigunit3000 started their turn 33 with 26  and 5 cards in their Grip.
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 spends  to gain 1 .
+thebigunit3000 is ending their turn 33 with 30  and 5 cards in their Grip.
+SnarkAttack started their turn 34 with 22  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 9 (new remote).
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 34 with 24  and 5 cards in HQ.
+thebigunit3000 started their turn 34 with 30  and 5 cards in their Grip.
+thebigunit3000 spends  to make a run on Server 9.
+SnarkAttack has no further action.
+thebigunit3000 accesses Global Food Initiative from Server 9.
+thebigunit3000 steals Global Food Initiative and gains 2 agenda points.
+thebigunit3000 wins the game.
+
+SnarkAttack
+gg
+
+thebigunit3000
+gg
+
+SnarkAttack
+ugh trope

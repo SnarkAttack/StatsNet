@@ -1,0 +1,490 @@
+
+pygreg takes a mulligan.
+
+pygreg
+glhf
+SnarkAttack takes a mulligan.
+
+SnarkAttack
+gl hf!
+pygreg started their turn 1 with 5  and 5 cards in HQ.
+pygreg spends  to install ICE protecting HQ.
+pygreg spends  to install ICE protecting R&D.
+pygreg spends  and 5  to play Hedge Fund.
+pygreg uses Hedge Fund to gain 9 .
+pygreg is ending their turn 1 with 9 and 3 cards in HQ.
+SnarkAttack started their turn 1 with 5 and 5 cards in their Grip.
+SnarkAttack spends  to play Making an Entrance.
+SnarkAttack uses Making an Entrance to look at and trash or rearrange the top 6 cards of their Stack.
+SnarkAttack uses Making an Entrance to trash I've Had Worse.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 1 with 7  and 5 cards in their Grip.
+pygreg started their turn 2 with 10  and 3 cards in HQ.
+pygreg spends  to draw a card.
+pygreg spends  to draw a card.
+pygreg spends  and 5  to play Hedge Fund.
+pygreg uses Hedge Fund to gain 9 .
+pygreg is ending their turn 2 with 14 and 5 cards in HQ.
+SnarkAttack started their turn 2 with 7 and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  and 6  to install Liberated Account.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack is ending their turn 2 with 9  and 5 cards in their Grip.
+pygreg started their turn 3 with 15  and 5 cards in HQ.
+pygreg spends  to install ICE protecting Server 1 (new remote).
+pygreg spends  to install a card in Server 1.
+pygreg rezzes Jackson Howard.
+pygreg spends  to use Jackson Howard to draw 2 cards.
+pygreg discards a card from their HQ.
+pygreg is ending their turn 3 with 15 and 5 cards in HQ.
+SnarkAttack started their turn 3 with 9 and 5 cards in their Grip.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  and 4  to install Eater.
+SnarkAttack spends  to play Account Siphon.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 5 , gain 10  and take 2 tags.
+SnarkAttack is ending their turn 3 with 23  and 3 cards in their Grip.
+pygreg started their turn 4 with 10  and 5 cards in HQ.
+pygreg spends  to use Jackson Howard to draw 2 cards.
+pygreg spends  and 1  to install ICE protecting HQ.
+pygreg spends  to gain 1 .
+pygreg discards a card from their HQ.
+pygreg discards a card from their HQ.
+pygreg removes Jackson Howard from the game.
+pygreg uses Jackson Howard to shuffle Hedge Fund and 2 cards into R&D.
+pygreg is ending their turn 4 with 10 and 5 cards in HQ.
+SnarkAttack started their turn 4 with 23  and 3 cards in their Grip.
+SnarkAttack spends  to install Same Old Thing.
+SnarkAttack spends  to use Same Old Thing to play Account Siphon.
+SnarkAttack plays Account Siphon.
+pygreg spends 8  to rez DNA Tracker.
+SnarkAttack spends 4  to increase the strength of Eater to 6.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 2 , gain 4  and take 2 tags.
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 4 with 21  and 2 cards in their Grip.
+pygreg started their turn 5 with 0  and 5 cards in HQ.
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg discards a card from their HQ.
+pygreg is ending their turn 5 with 3 and 5 cards in HQ.
+SnarkAttack started their turn 5 with 21  and 2 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack discards Hacktivist Meeting from their Grip.
+SnarkAttack is ending their turn 5 with 21  and 5 cards in their Grip.
+pygreg started their turn 6 with 4  and 5 cards in HQ.
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg sets credit to 6 (-1).
+pygreg sets click to 1 (+1).
+pygreg spends  and 2  to play Best Defense.
+pygreg uses Best Defense to trash Eater.
+pygreg is ending their turn 6 with 4 and 5 cards in HQ.
+SnarkAttack started their turn 6 with 21  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 3  to play Retrieval Run.
+pygreg has no further action.
+SnarkAttack uses Retrieval Run to install Eater.
+SnarkAttack installs Eater at no cost.
+SnarkAttack spends  to play Account Siphon.
+SnarkAttack spends 4  to increase the strength of Eater to 6.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack continues the run.
+pygreg spends 4  to rez Seidr Adaptive Barrier.
+SnarkAttack spends 2  to increase the strength of Eater to 4.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Account Siphon to force the Corp to lose 1 , gain 2  and take 2 tags.
+SnarkAttack is ending their turn 6 with 10  and 5 cards in their Grip.
+pygreg started their turn 7 with 0  and 5 cards in HQ.
+pygreg spends  to install a card in HQ.
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg is ending their turn 7 with 2 and 5 cards in HQ.
+SnarkAttack started their turn 7 with 10  and 5 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack discards Eater from their Grip.
+SnarkAttack discards Hacktivist Meeting from their Grip.
+SnarkAttack is ending their turn 7 with 14  and 5 cards in their Grip.
+pygreg started their turn 8 with 3  and 5 cards in HQ.
+pygreg spends  to install a card in Server 1.
+pygreg spends  to gain 1 .
+pygreg spends  to install a card in Server 2 (new remote).
+pygreg is ending their turn 8 with 4 and 4 cards in HQ.
+SnarkAttack started their turn 8 with 14  and 5 cards in their Grip.
+SnarkAttack spends  and 4  to install Keyhole.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Obokata Protocol.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Lotus Field.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Philotic Entanglement.
+SnarkAttack is ending their turn 8 with 10  and 4 cards in their Grip.
+pygreg started their turn 9 with 4  and 4 cards in HQ.
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg is ending their turn 9 with 7 and 5 cards in HQ.
+SnarkAttack started their turn 9 with 10  and 4 cards in their Grip.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Kakugo.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Global Food Initiative.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Jackson Howard.
+SnarkAttack spends  to make a run on Archives.
+pygreg has no further action.
+pygreg wants to act before the run is successful.
+pygreg rezzes Jackson Howard.
+pygreg removes Jackson Howard from the game.
+
+SnarkAttack
+nooooooo
+pygreg uses Jackson Howard to shuffle Jackson Howard, Philotic Entanglement, Global Food Initiative into R&D.
+SnarkAttack accesses Shock! from Archives.
+pygreg uses Shock! to do 1 net damage.
+SnarkAttack trashes Same Old Thing due to damage.
+SnarkAttack accesses Obokata Protocol from Archives.
+SnarkAttack is ending their turn 9 with 10  and 3 cards in their Grip.
+pygreg started their turn 10 with 7  and 5 cards in HQ.
+pygreg trashes a card from their the root of R&D.
+pygreg spends  to install ICE protecting R&D.
+pygreg spends  to gain 1 .
+pygreg spends  and 8  to play IPO.
+pygreg uses IPO to gain 13 .
+pygreg is ending their turn 10 with 13 and 4 cards in HQ.
+SnarkAttack started their turn 10 with 10  and 3 cards in their Grip.
+SnarkAttack spends  and 6  to install Liberated Account.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack is ending their turn 10 with 16  and 2 cards in their Grip.
+pygreg started their turn 11 with 13 and 4 cards in HQ.
+pygreg spends  to install a card in HQ.
+pygreg spends  to draw a card.
+pygreg spends  to gain 1 .
+pygreg is ending their turn 11 with 14 and 5 cards in HQ.
+SnarkAttack started their turn 11 with 16  and 2 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack is ending their turn 11 with 20  and 4 cards in their Grip.
+pygreg started their turn 12 with 15 and 5 cards in HQ.
+pygreg spends  to draw a card.
+pygreg spends  and 1  to play Scarcity of Resources.
+pygreg spends  and 2  to play Friends in High Places.
+pygreg installs ICE protecting Archives.
+pygreg uses Friends in High Places to install Kakugo from Archives.
+pygreg spends 1  to install ICE protecting R&D.
+pygreg uses Friends in High Places to install Seidr Adaptive Barrier from Archives.
+pygreg is ending their turn 12 with 11 and 5 cards in HQ.
+SnarkAttack started their turn 12 with 20  and 4 cards in their Grip.
+SnarkAttack spends  to play Making an Entrance.
+SnarkAttack uses Making an Entrance to look at and trash or rearrange the top 6 cards of their Stack.
+SnarkAttack uses Making an Entrance to trash Black Orchestra.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg spends 4  to rez Kakugo.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Apocalypse due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Excalibur.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes MKUltra due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Celebrity Gift.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Wanton Destruction due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash IPO.
+SnarkAttack is ending their turn 12 with 17  and 0 cards in their Grip.
+pygreg started their turn 13 with 7  and 5 cards in HQ.
+pygreg spends  to draw a card.
+pygreg trashes a card in Server 1.
+pygreg spends  to install a card in Server 1.
+pygreg spends  to install a card in Server 3 (new remote).
+pygreg is ending their turn 13 with 7 and 5 cards in HQ.
+SnarkAttack started their turn 13 with 17  and 0 cards in their Grip.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to make a run on R&D.
+pygreg spends 4  to rez Seidr Adaptive Barrier.
+SnarkAttack spends 2  to increase the strength of Eater to 4.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes I've Had Worse due to damage.
+SnarkAttack uses I've Had Worse to draw 3 cards.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack accessed no cards during the run.
+
+SnarkAttack
+sorry, meant to keyhole
+SnarkAttack spends  to play Rebirth.
+
+pygreg
+go again
+SnarkAttack uses Rebirth to change identities.
+SnarkAttack NOTE: passive abilities (Kate, Gabe, etc) will incorrectly fire if their once per turn condition was met this turn before Rebirth was played. Please adjust your game state manually for the rest of this turn if necessary.
+SnarkAttack sets click to 2 (+1).
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Déjà Vu due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack moves Déjà Vu from their Heap to Grip.
+SnarkAttack uses Keyhole to trash Hortum.
+SnarkAttack spends  to use Omar Keung: Conspiracy Theorist to make a run on Archives.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Omar Keung: Conspiracy Theorist to make a successful run on HQ.
+SnarkAttack accesses Crisium Grid from the root of HQ.
+SnarkAttack pays 5  to trash Crisium Grid from the root of HQ.
+SnarkAttack accesses Marcus Batty from the root of HQ.
+SnarkAttack pays 1  to trash Marcus Batty from the root of HQ.
+SnarkAttack accesses Philotic Entanglement from HQ.
+SnarkAttack steals Philotic Entanglement and gains 2 agenda points.
+Scarcity of Resources is trashed.
+SnarkAttack is ending their turn 13 with 7  and 2 cards in their Grip.
+pygreg spends 1  to rez Pālanā Agroplex.
+pygreg started their turn 14 with 3  and 4 cards in HQ.
+pygreg uses Pālanā Agroplex to make each player draw 1 card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+pygreg trashes a card in Server 3.
+pygreg spends  to install a card in Server 3.
+pygreg rezzes Jackson Howard.
+pygreg spends  to use Jackson Howard to draw 2 cards.
+pygreg spends  to install a card in HQ.
+pygreg discards a card from their HQ.
+pygreg is ending their turn 14 with 4 and 5 cards in HQ.
+SnarkAttack started their turn 14 with 7  and 3 cards in their Grip.
+SnarkAttack spends  to make a run on Server 3.
+pygreg removes Jackson Howard from the game.
+pygreg uses Jackson Howard to shuffle Hedge Fund, Celebrity Gift and 1 card into R&D.
+SnarkAttack spends  to use Omar Keung: Conspiracy Theorist to make a run on Archives.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Omar Keung: Conspiracy Theorist to make a successful run on HQ.
+SnarkAttack accesses Nisei MK II from HQ.
+SnarkAttack steals Nisei MK II and gains 2 agenda points.
+SnarkAttack accesses Caprice Nisei from the root of HQ.
+SnarkAttack pays 1  to trash Caprice Nisei from the root of HQ.
+SnarkAttack spends  to use Liberated Account to gain 4 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 14 with 11  and 3 cards in their Grip.
+pygreg started their turn 15 with 4  and 4 cards in HQ.
+pygreg uses Pālanā Agroplex to make each player draw 1 card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+pygreg spends  and 5  to play Hedge Fund.
+pygreg uses Hedge Fund to gain 9 .
+pygreg spends  to install a card in HQ.
+pygreg spends  to gain 1 .
+pygreg is ending their turn 15 with 10 and 4 cards in HQ.
+SnarkAttack started their turn 15 with 11  and 4 cards in their Grip.
+SnarkAttack spends  and 1  to play Inject.
+SnarkAttack adds Day Job to Grip.
+SnarkAttack adds I've Had Worse to Grip.
+SnarkAttack adds Liberated Account to Grip.
+SnarkAttack adds Dirty Laundry to Grip.
+SnarkAttack spends  to use Omar Keung: Conspiracy Theorist to make a run on Archives.
+pygreg spends 4  to rez Kakugo.
+SnarkAttack jacks out.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards Dirty Laundry from their Grip.
+SnarkAttack discards Hacktivist Meeting from their Grip.
+SnarkAttack is ending their turn 15 with 12  and 5 cards in their Grip.
+pygreg started their turn 16 with 6  and 4 cards in HQ.
+pygreg uses Pālanā Agroplex to make each player draw 1 card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+pygreg trashes Pālanā Agroplex in Server 1.
+pygreg spends  to install a card in Server 1.
+pygreg spends  to gain 1 .
+pygreg spends  to gain 1 .
+pygreg is ending their turn 16 with 9 and 5 cards in HQ.
+SnarkAttack started their turn 16 with 12  and 6 cards in their Grip.
+SnarkAttack spends  and 2  to play Day Job.
+SnarkAttack uses Day Job to gain 10 .
+SnarkAttack is ending their turn 16 with 20  and 5 cards in their Grip.
+pygreg started their turn 17 with 9  and 5 cards in HQ.
+pygreg spends  and 5  to play Hedge Fund.
+pygreg uses Hedge Fund to gain 9 .
+pygreg spends  and 1  to advance a card in Server 1.
+pygreg spends  and 1  to advance a card in Server 1.
+pygreg is ending their turn 17 with 11 and 5 cards in HQ.
+SnarkAttack started their turn 17 with 20  and 5 cards in their Grip.
+SnarkAttack spends  and 1  to play I've Had Worse.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to make a run on Server 1.
+pygreg spends 4  to rez Rototurret.
+SnarkAttack spends 2  to install MKUltra.
+SnarkAttack spends 3  to use MKUltra to add 2 strength and break up to 2 subroutines.
+pygreg has no further action.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack accesses Global Food Initiative from Server 1.
+SnarkAttack steals Global Food Initiative and gains 2 agenda points.
+SnarkAttack spends  and 5  to play Sure Gamble.
+SnarkAttack uses Sure Gamble to gain 9 .
+SnarkAttack discards Keyhole from their Grip.
+SnarkAttack discards Planned Assault from their Grip.
+SnarkAttack is ending their turn 17 with 18  and 5 cards in their Grip.
+pygreg started their turn 18 with 8  and 5 cards in HQ.
+pygreg spends  to draw a card.
+pygreg spends  to install a card in Server 1.
+pygreg spends  to gain 1 .
+pygreg discards a card from their HQ.
+pygreg is ending their turn 18 with 9 and 5 cards in HQ.
+SnarkAttack started their turn 18 with 18  and 5 cards in their Grip.
+SnarkAttack spends  and 2  to play Day Job.
+SnarkAttack uses Day Job to gain 10 .
+SnarkAttack is ending their turn 18 with 26  and 4 cards in their Grip.
+pygreg started their turn 19 with 9  and 5 cards in HQ.
+pygreg spends  to draw a card.
+pygreg spends  to install a card in Server 1.
+pygreg spends  to gain 1 .
+pygreg discards a card from their HQ.
+pygreg is ending their turn 19 with 10 and 5 cards in HQ.
+SnarkAttack started their turn 19 with 26  and 4 cards in their Grip.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+SnarkAttack spends 2  to increase the strength of Eater to 4.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+SnarkAttack continues the run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+pygreg has no further action.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Dirty Laundry due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Swordsman.
+SnarkAttack spends  to use Keyhole to make a run on R&D.
+pygreg has no further action.
+SnarkAttack spends 2  to increase the strength of Eater to 4.
+SnarkAttack continues the run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+
+pygreg
+break seider
+pygreg has no further action.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Same Old Thing due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+SnarkAttack uses Keyhole to trash Nisei MK II.
+SnarkAttack spends  to draw a card.
+pygreg uses Pālanā Foods: Sustainable Growth to gain 1 .
+SnarkAttack spends  to draw a card.
+SnarkAttack is ending their turn 19 with 18  and 4 cards in their Grip.
+pygreg started their turn 20 with 11 and 5 cards in HQ.
+pygreg spends  and 3  to play Celebrity Gift.
+pygreg uses Celebrity Gift to reveal DNA Tracker, Global Food Initiative, Global Food Initiative, Scarcity of Resources, Snare! and gain 10 .
+pygreg trashes a card in Server 1.
+pygreg spends  to install a card in Server 1.
+pygreg is ending their turn 20 with 18 and 4 cards in HQ.
+SnarkAttack started their turn 20 with 18  and 4 cards in their Grip.
+SnarkAttack spends  and 1  to play Inject.
+SnarkAttack trashes Paperclip and gains 1 .
+SnarkAttack trashes Eater and gains 1 .
+SnarkAttack adds Inject to Grip.
+SnarkAttack adds Making an Entrance to Grip.
+SnarkAttack spends  to make a run on Archives.
+SnarkAttack spends 4  to install Paperclip.
+SnarkAttack trashes MKUltra from their Rig.
+pygreg has no further action.
+SnarkAttack uses Paperclip to spend 1 , increase strength by 1, and break 1 barrier subroutine.
+pygreg uses Kakugo to do 1 net damage.
+SnarkAttack trashes Making an Entrance due to damage.
+SnarkAttack continues the run.
+pygreg has no further action.
+
+pygreg
+gg
+SnarkAttack accesses Nisei MK II from Archives.
+SnarkAttack steals Nisei MK II and gains 2 agenda points.
+SnarkAttack wins the game.
+
+SnarkAttack
+gg
+pygreg left the game.

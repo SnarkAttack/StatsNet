@@ -1,0 +1,344 @@
+
+SnarkAttack takes a mulligan.
+GillyO keeps their hand.
+
+SnarkAttack
+gl hf!
+SnarkAttack started their turn 1 with 5 and 5 cards in HQ.
+
+GillyO
+howdy
+
+GillyO
+gl hf!
+SnarkAttack spends  to install ICE protecting HQ.
+SnarkAttack spends  to install ICE protecting R&D.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack is ending their turn 1 with 9  and 3 cards in HQ.
+GillyO started their turn 1 with 5  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Knifed, Frantic Coding from their Stack and draw 1 card.
+GillyO spends  to draw a card.
+GillyO spends  and 5  to install Magnum Opus.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards MKUltra from their Grip.
+GillyO is ending their turn 1 with 4  and 5 cards in their Grip.
+SnarkAttack started their turn 2 with 9 and 3 cards in HQ.
+SnarkAttack spends  to install a card in Server 1 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack spends  and 1  to advance a card in Server 1.
+SnarkAttack scores 15 Minutes and gains 1 agenda point.
+SnarkAttack is ending their turn 2 with 7  and 3 cards in HQ.
+GillyO started their turn 2 with 4  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Rumor Mill, Stimhack from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  and 3  to install Grimoire.
+GillyO is ending their turn 2 with 7  and 5 cards in their Grip.
+SnarkAttack started their turn 3 with 7 and 3 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  to draw a card.
+SnarkAttack is ending their turn 3 with 11  and 5 cards in HQ.
+GillyO started their turn 3 with 7  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Paperclip, Grimoire from their Stack and draw 1 card.
+GillyO spends  and 3  to play Frantic Coding.
+GillyO installs Keyhole.
+GillyO trashes Spooned, Same Old Thing, Sure Gamble, Mad Dash, Inject, Retrieval Run, I've Had Worse, Grimoire, Wanton Destruction.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO is ending their turn 3 with 10 and 5 cards in their Grip.
+SnarkAttack started their turn 4 with 11  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 2 (new remote).
+SnarkAttack spends  and 1  to advance a card in Server 2.
+SnarkAttack spends  and 1  to advance a card in Server 2.
+SnarkAttack uses Breaking News to give the Runner 2 tags.
+SnarkAttack scores Breaking News and gains 1 agenda point.
+SnarkAttack is ending their turn 4 with 9  and 5 cards in HQ.
+SnarkAttack uses Breaking News to make the Runner lose 2 tags.
+GillyO started their turn 4 with 10  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Same Old Thing, Vamp from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards Magnum Opus from their Grip.
+GillyO is ending their turn 4 with 18 and 5 cards in their Grip.
+SnarkAttack started their turn 5 with 9 and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 3 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 5 with 9  and 5 cards in HQ.
+GillyO started their turn 5 with 18  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Sure Gamble, Magnum Opus from their Stack and draw 1 card.
+SnarkAttack removes Jackson Howard from the game.
+GillyO spends  and 1  to play Rumor Mill.
+SnarkAttack uses Jackson Howard to shuffle Sweeps Week and 2 cards into R&D.
+
+GillyO
+that was like pretty simultaneous
+GillyO moves Rumor Mill to Grip.
+GillyO sets click to 4 (+1).
+GillyO sets credit to 18 (+1).
+
+SnarkAttack
+Got scared after the first one in the heap
+GillyO spends  and 4  to install Eater.
+GillyO spends  to use Keyhole to make a run on R&D.
+SnarkAttack spends 4  to rez Archangel.
+SnarkAttack has no further action.
+GillyO spends 4  to increase the strength of Eater to 6.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO uses Keyhole to trash NAPD Contract.
+GillyO spends  to use Keyhole to make a run on R&D.
+GillyO spends 4  to increase the strength of Eater to 6.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+SnarkAttack has no further action.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO uses Keyhole to trash Breaking News.
+GillyO spends  to make a run on Archives.
+SnarkAttack has no further action.
+GillyO accesses Breaking News from Archives.
+GillyO steals Breaking News and gains 1 agenda point.
+GillyO accesses NAPD Contract from Archives.
+GillyO pays 4  to steal NAPD Contract.
+GillyO steals NAPD Contract and gains 2 agenda points.
+GillyO is ending their turn 5 with 0  and 5 cards in their Grip.
+SnarkAttack started their turn 6 with 5 and 5 cards in HQ.
+SnarkAttack spends  and 1  to install ICE protecting R&D.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 5 .
+SnarkAttack is ending their turn 6 with 8  and 5 cards in HQ.
+GillyO started their turn 6 with 0  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Déjà Vu, Scrubber from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards Black Orchestra from their Grip.
+GillyO is ending their turn 6 with 8  and 5 cards in their Grip.
+SnarkAttack started their turn 7 with 8 and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to install ICE protecting Archives.
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 7 with 9  and 5 cards in HQ.
+GillyO started their turn 7 with 8  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Eater, Levy AR Lab Access from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards Retrieval Run from their Grip.
+GillyO is ending their turn 7 with 16 and 5 cards in their Grip.
+SnarkAttack started their turn 8 with 9 and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 1  to install ICE protecting HQ.
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 8 with 9  and 5 cards in HQ.
+GillyO started their turn 8 with 16  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Inject, Frantic Coding from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards Scrubber from their Grip.
+GillyO is ending their turn 8 with 24 and 5 cards in their Grip.
+SnarkAttack started their turn 9 with 9 and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 9 with 12  and 5 cards in HQ.
+GillyO started their turn 9 with 24  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Vamp, Same Old Thing from their Stack and draw 1 card.
+GillyO spends  to use Keyhole to make a run on R&D.
+SnarkAttack spends 4  to rez Data Raven.
+GillyO sets tag to 1 (+1).
+GillyO spends  to use Keyhole to make a run on R&D.
+GillyO spends 2  to increase the strength of Eater to 4.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+GillyO sets click to 3 (+1).
+SnarkAttack has no further action.
+
+GillyO
+misclicked the keyhole rather than eater
+GillyO continues the run.
+GillyO spends 4  to increase the strength of Eater to 6.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+
+SnarkAttack
+Yeah, I was about to finish typing to you
+SnarkAttack has no further action.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO uses Keyhole to trash BOOM!.
+GillyO spends  to use Keyhole to make a run on R&D.
+SnarkAttack has no further action.
+GillyO sets tag to 2 (+1).
+GillyO spends 2  to increase the strength of Eater to 4.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO spends 4  to increase the strength of Eater to 6.
+GillyO spends 1  to use Eater to break ICE subroutine and access 0 cards this run.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO uses Keyhole to trash Resistor.
+GillyO spends  and 5  to play Sure Gamble.
+GillyO uses Sure Gamble to gain 9 .
+GillyO spends  and 3  to remove 1 tag .
+GillyO is ending their turn 9 with 9  and 5 cards in their Grip.
+SnarkAttack started their turn 10 with 8  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 4 (new remote).
+SnarkAttack rezzes Jackson Howard.
+SnarkAttack spends  to use Jackson Howard to draw 2 cards.
+SnarkAttack spends  and 1  to play Closed Accounts.
+SnarkAttack uses Closed Accounts to force the Runner to lose all 9 .
+SnarkAttack discards a card from their HQ.
+SnarkAttack is ending their turn 10 with 7  and 5 cards in HQ.
+GillyO started their turn 10 with 0  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Forked, Scrubber from their Stack and draw 1 card.
+GillyO spends  to gain 1 .
+GillyO spends  and 1  to play Rumor Mill.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO is ending their turn 10 with 4 and 4 cards in their Grip.
+SnarkAttack started their turn 11 with 7  and 5 cards in HQ.
+SnarkAttack spends  to play Observe and Destroy.
+
+SnarkAttack
+Trash Mopus please
+GillyO trashes Magnum Opus from their Rig.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 11 with 9  and 5 cards in HQ.
+GillyO started their turn 11 with 4  and 4 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash the top 2 cards from their Stack and draw 1 card - but their Stack is empty.
+
+SnarkAttack
+thanks
+
+GillyO
+np
+GillyO spends  to gain 1 .
+GillyO spends  to gain 1 .
+GillyO spends  to gain 1 .
+GillyO spends  to gain 1 .
+GillyO is ending their turn 11 with 8 and 4 cards in their Grip.
+SnarkAttack started their turn 12 with 9  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 1  to play Sweeps Week.
+SnarkAttack uses Sweeps Week to gain 4 .
+SnarkAttack spends  to install ICE protecting Server 5 (new remote).
+SnarkAttack is ending their turn 12 with 12  and 5 cards in HQ.
+GillyO started their turn 12 with 8  and 4 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash the top 2 cards from their Stack and draw 1 card - but their Stack is empty.
+GillyO spends  and 2  to play Déjà Vu.
+GillyO uses Déjà Vu to add Magnum Opus to their Grip.
+GillyO spends  and 5  to install Magnum Opus.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO is ending their turn 12 with 5 and 3 cards in their Grip.
+SnarkAttack started their turn 13 with 12  and 5 cards in HQ.
+SnarkAttack spends  to install a card in Server 5.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 13 with 14  and 5 cards in HQ.
+GillyO started their turn 13 with 5  and 3 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash the top 2 cards from their Stack and draw 1 card - but their Stack is empty.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to make a run on Server 5.
+SnarkAttack spends 2  to rez IP Block.
+GillyO spends 4  to install Paperclip.
+GillyO uses Paperclip to spend 3 , increase strength by 3, and break 3 barrier subroutines.
+SnarkAttack has no further action.
+GillyO sets tag to 1 (+1).
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO accesses Quantum Predictive Model from Server 5.
+SnarkAttack uses Quantum Predictive Model to add it to their score area and gain 1 agenda point.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO is ending their turn 13 with 4 and 3 cards in their Grip.
+
+SnarkAttack
+Honestly, I kinda wanted to score that for real
+SnarkAttack started their turn 14 with 12  and 5 cards in HQ.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  and 3  to play Hard-Hitting News.
+SnarkAttack uses Hard-Hitting News to initiate a trace with strength 5 (4 + 1 ) (Give the Runner 4 tags).
+GillyO spends 0  to increase link strength to 0.
+SnarkAttack uses Hard-Hitting News to give the Runner 4 tags.
+SnarkAttack is ending their turn 14 with 10  and 5 cards in HQ.
+GillyO started their turn 14 with 4  and 3 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash the top 2 cards from their Stack and draw 1 card - but their Stack is empty.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to make a run on Archives.
+SnarkAttack has no further action.
+GillyO continues the run.
+SnarkAttack has no further action.
+GillyO accesses Quantum Predictive Model from Archives.
+SnarkAttack uses Quantum Predictive Model to add it to their score area and gain 1 agenda point.
+GillyO accesses Quantum Predictive Model from Archives.
+SnarkAttack uses Quantum Predictive Model to add it to their score area and gain 1 agenda point.
+GillyO is ending their turn 14 with 10 and 3 cards in their Grip.
+SnarkAttack started their turn 15 with 10  and 5 cards in HQ.
+SnarkAttack spends  to draw a card.
+SnarkAttack spends  and 5  to play Hedge Fund.
+SnarkAttack uses Hedge Fund to gain 9 .
+SnarkAttack spends  and 2  to install ICE protecting R&D.
+SnarkAttack is ending their turn 15 with 12  and 5 cards in HQ.
+GillyO started their turn 15 with 10 and 3 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash the top 2 cards from their Stack and draw 1 card - but their Stack is empty.
+GillyO spends  and 2  to play Déjà Vu.
+GillyO uses Déjà Vu to add Levy AR Lab Access to their Grip.
+GillyO spends  and 5  to play Levy AR Lab Access.
+GillyO uses Levy AR Lab Access to shuffle their Grip and Heap into their Stack and draw 5 cards.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO is ending their turn 15 with 7 and 5 cards in their Grip.
+SnarkAttack started their turn 16 with 12  and 5 cards in HQ.
+SnarkAttack spends  and 1  to install ICE protecting Server 5.
+SnarkAttack spends  to gain 1 .
+SnarkAttack spends  to gain 1 .
+SnarkAttack is ending their turn 16 with 13  and 5 cards in HQ.
+GillyO started their turn 16 with 7  and 5 cards in their Grip.
+GillyO uses MaxX: Maximum Punk Rock to trash Grimoire, Knifed from their Stack and draw 1 card.
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO spends  to use Magnum Opus to gain 2 .
+GillyO discards Black Orchestra from their Grip.
+GillyO is ending their turn 16 with 15 and 5 cards in their Grip.
+SnarkAttack started their turn 17 with 13  and 5 cards in HQ.
+SnarkAttack spends  to play Archived Memories.
+SnarkAttack adds BOOM! to HQ.
+SnarkAttack spends  and 4  to play BOOM!.
+SnarkAttack uses BOOM! to do 7 meat damage.
+GillyO trashes Scrubber, I've Had Worse, Magnum Opus, Retrieval Run, Frantic Coding due to damage.
+GillyO is flatlined.
+SnarkAttack wins the game.
+
+GillyO
+gg
+
+SnarkAttack
+gg
